@@ -36,7 +36,7 @@ Nose; caramel, vanilla, carob molasses, herbal notes and nail polish.
 Palate; sweet spice more like cinnamon, ginger and pepper. Honey, slightly nutty, some alcohol burn and fruit liqueur.  
 Finish; more spice, freshly cut oak wood, warm, long and lingering.  
 
-45% abv, colour is red amber but no colouring added, %80 corn-%8 rye- %12 barley, NAS but approximately 4 plus years matured in virgin white oak barrels which was charred from the inside. The distillery uses iron-free, limestone-filtered water from Cave Spring to produce their spirit. My whiskey's bottling date is 01.05.2020 and the barrel number is 20-02136.  
+45% abv, colour is red amber but no colouring added, %80 corn-%8 rye- %12 barley, NAS but approximately 4 plus years matured in virgin white oak barrels which were charred from the inside. The distillery uses iron-free, limestone-filtered water from Cave Spring to produce their spirit. My whiskey's bottling date is 01.05.2020 and the barrel number is 20-02136.  
 
 Jack Daniel's Single Barrel is really sweet, like all other Tenneesse whiskies, because of the high percentage of corn. Nevertheless, San Francisco Wine and Spirits Competition 2020 double gold winner Single Barrel Select is richer, more balanced and well-layered than its little brother, the classic Old No:7. I want to try 100 proof (50% abv) and cask strength expressions of this beauty.  
 
