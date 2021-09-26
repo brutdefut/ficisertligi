@@ -46,7 +46,7 @@ In general, The Macallan Sienna has an earthy mouthfeel and good texture. Whisky
 
 The colour line is discontinued and nowadays they are hard to find. As a result, prices are getting higher. If you are lucky enough to stumble across one, don't miss the opportunity.  
 
-P.S.: 
+P.S.:  
 1) Sienna is a natural colouring pigment and it was called Terra di Siena by the ancient Romans.  
 2) Macallan=Magh-Ellan means "fertile land" in Scottish Gaelic.  
 
