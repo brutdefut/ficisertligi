@@ -33,18 +33,18 @@ Sağlığınıza.
 
 <p id="english"></p>
 
-First released in 2013, Sienna is a fully sherry cask matured whisky that is a trademark maturing style for Macallan Distillery. The Colour line of the 1824 series consist of four different expressions and Sienna is the second darkest one in the palette. (The others are gold, amber and ruby).  
+First released in 2013, Sienna is a fully sherry cask matured whisky that is a trademark maturing style of The Macallan Distillery. The colour line of the 1824 series consists of four different expressions and Sienna is the second darkest one in the palette. (The others are gold, amber and ruby).  
 
 Nose; black grapes, green apples, vanilla, nutmeg, oaky and grassy.  
-Palate; purple basil, jam, citrus, fruit cake, plums.  
+Palate; purple basil, blackberry jam, citrus, fruit cake, plums.  
 Finish; medium to long, spicy, sweet and smooth.  
-After a few minutes in the glass, sherry cask influence gets bigger with spice and grapes.  
+After a few minutes in the glass, influence of the sherry casks gets bigger with spice and grapes.  
 
 43% abv, naturally copper-coloured (no colouring added), NAS, matured in sherry oak casks from Jerez, Spain.  
 
-In general, The Macallan Sienna has an earthy mouthfeel and good texture.  Whisky is beautifully balanced, rich in aromas on the palate and also awarded in Jim Murray's Whisky Bible 2014, "liquid gold".  
+In general, The Macallan Sienna has an earthy mouthfeel and good texture. Whisky is beautifully balanced, rich in aromas on the palate and also awarded in Jim Murray's Whisky Bible 2014, "liquid gold".  
 
-The Colour line is discontinued and nowadays they are hard to find. As a result, prices are getting higher. If you are lucky enough to stumble across one, don't miss the opportunity.  
+The colour line is discontinued and nowadays they are hard to find. As a result, prices are getting higher. If you are lucky enough to stumble across one, don't miss the opportunity.  
 
 P.S.: 
 1) Sienna is a natural colouring pigment and it was called Terra di Siena by the ancient Romans.  
