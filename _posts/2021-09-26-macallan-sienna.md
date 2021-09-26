@@ -23,7 +23,7 @@ Genel olarak "earthy" tanımına uygun, zengin yapıya sahip, dengeli viskilerde
 
 Artık üretilmediği için bulmak gittikçe zorlaşıyor ve buna paralel olarak fiyatı artıyor. Herhangi bir yerde denk gelirseniz kaçırmamanızı tavsiye ederim.  
 
-Dip Not: 
+Dip Not:  
 1)Ekspresyon ismini doğal yollarla oluşan bir renk pigmenti olan "Sienna"dan alıyor.  
 2)Macallan=Magh-Ellan İskoç Galcesi'nde "bereketli toprak" anlamında geliyor.  
 
