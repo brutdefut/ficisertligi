@@ -39,7 +39,7 @@ After a few minutes in the glass, whisky is getting earthier and spicy.
 
 In general, most of the distillery's founder's reserve bottlings are known to be weaker than age statement ones. However, it is clear that Glen Garioch Founder's Reserve, which is not chill-filtred and bottled with 48% abv, is an exception to this generalization with its rich flavor, oily and well-rounded character. It's nearly impossible to find such an entry-level NAS whisky.  
 
-Glen Garioch Distillery is by far one of my two favourites, along with Glenfarclas; the biggest reason for this is that the overall production quality is above a certain level and all the expressions of both distilleries. Clearly, guys in the two distilleries know how to bottle a proper whisky.  
+Glen Garioch Distillery is by far one of my two favourites, along with Glenfarclas; the biggest reason for this is that the overall production quality and all the expressions of both distilleries are above a certain level. Clearly, guys in the two distilleries know how to bottle a proper whisky.  
 
 I remember in one of our conversations with a dear friend of mine who is also a Glen Garioch fan and I said that "I put the classic 12-year-old expression before the founder's reserve". But after almost 2 years and a few bottles that have been finished, now "which one would you choose?" If they asked me, I'd have a hard time deciding. I guess we'll have to go to Aberdeenshire and do onsite tastings to get the final result.  
 
