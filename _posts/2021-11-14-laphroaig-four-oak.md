@@ -33,9 +33,9 @@ Sağlığınıza.
 
 <p id="english"></p>
 
-A young, travel retail bottling from Laphroaig Family. Released in 2017, Four Oak reflects an experimental approach from the distillery.  
+A young, travel retail bottling from Laphroaig Family. Released in 2017, Four Oak reflects an experimental approach of the distillery.  
  
-Nose; vanilla, lime, fresh-cut grass, pine honey and herbal notes. With time the whisky gets floral, sweeter and gentle; maybe too gentle.  
+Nose; vanilla, lime, fresh-cut grass, pine honey and herbal notes. Over time, the whisky gets floral, sweeter and gentle; maybe too gentle.  
 Palate; peat, toasted oak, smoke-grilled meat, iodine and spice. Slightly fruity and velvety at the back of the palate. Still young, needs more time.  
 Finish; more iodine, malty dryness, smoke, oak, short to medium and warm.  
 
@@ -46,7 +46,7 @@ NAS, caramel coloured, chill-filtered and matured in four different casks, befor
 -Virgin American Oak  
 -European Oak Hogshead   
 
-4 types of oak casks above are blended to create the "Four Oak", as it is called. However, we all know that increasing the number of barrels used in maturation and mixing them does not always produce very good results. Unfortunately, this expression has a structure that is lost in the same confusion and cannot find its balance.  
+4 types of oak casks above are blended to create the "Four Oak", as it is called. However, we all know that increasing the number of casks used in maturation and mixing them do not always produce very good results. Unfortunately, this expression has a structure that is lost in the same confusion and cannot find its balance.  
 
 Laphroaig Four Oak can be a fun adventure for NAS and experimental whisky lovers like me, but I would recommend serious whisky lovers to stay closer to the true classic; Laphroaig 10.  
 
