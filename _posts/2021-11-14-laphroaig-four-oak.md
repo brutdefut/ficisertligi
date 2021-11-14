@@ -25,7 +25,7 @@ NAS, renklendirici mevcut, soğuk filtrasyon yapılıyor ve beni hiç mutlu etme
 
 Yukarıdaki dört meşe fıçıdan gelen viskiler harmanlanarak, adı üzerinde, "Four Oak" yaratılıyor. Ancak olgunlaştırmada kullanılan fıçı sayısını artırmanın ve bunları karıştırmanın her zaman çok iyi sonuçlar doğurmadığını hepimiz biliyoruz. Maalesef bu ekspresyon da aynı karmaşanın içinde kaybolan, dengesini bulamamış bir yapıya sahip.  
 
-Laphroaig Four Oak, benim gibi NAS ve deneysel viski meraklıları için güzel bir macera olabilir ancak oturaklı viskiseverlere gerçek bir klasik olan Laphroaig 10'a daha yakın durmalarını tavsiye edeceğim.  
+Laphroaig Four Oak, benim gibi NAS ve deneysel viski meraklıları için ilginç bir macera olabilir ancak oturaklı viskiseverlere gerçek bir klasik olan Laphroaig 10'a daha yakın durmalarını tavsiye edeceğim.  
 
 Sağlığınıza. 
  
