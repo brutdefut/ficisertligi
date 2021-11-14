@@ -10,7 +10,7 @@ preview-en: Released in 2017, Four Oak reflects an experimental approach from Th
 
 ---
 
-Laphroaig Ailesi'nin 2017'de travel retail olarak piyasaya sürdüğü, damııtımevinin deneysel tarafını yansıtan genç bir ekspresyon.  
+Laphroaig Ailesi'nin 2017'de travel retail olarak piyasaya sürdüğü, damıtımevinin deneysel tarafını yansıtan genç bir ekspresyon.  
 
 Burun; vanilya, yeşil limon, yeni kesilmiş çimen, çam balı ve keskin bitkisel aromalar. Havalandıkça çiçeksi, tatlı ve biraz fazlaca zarif hissettiriyor.  
 Damak; is, meşe, mangalda pişen tütsülenmiş et, iyot ve baharat. Arkadan arkaya çok hafif meyve dokunuşları var. Henüz tam olgunlaşmamış, hafif yağlı bir yapıya sahip.  
@@ -25,7 +25,7 @@ NAS, renklendirici mevcut, soğuk filtrasyon yapılıyor ve beni hiç mutlu etme
 
 Yukarıdaki dört meşe fıçıdan gelen viskiler harmanlanarak, adı üzerinde, "Four Oak" yaratılıyor. Ancak olgunlaştırmada kullanılan fıçı sayısını artırmanın ve bunları karıştırmanın her zaman çok iyi sonuçlar doğurmadığını hepimiz biliyoruz. Maalesef bu ekspresyon da aynı karmaşanın içinde kaybolan, dengesini bulamamış bir yapıya sahip.  
 
-Laphroaig Four Oak, benim gibi NAS ve deneysel viski sevenler için güzel bir macera olabilir ancak oturaklı viskiseverlere gerçek bir klasik olan Laphroaig 10'a daha yakın durmalarını tavsiye edeceğim.  
+Laphroaig Four Oak, benim gibi NAS ve deneysel viski meraklıları için güzel bir macera olabilir ancak oturaklı viskiseverlere gerçek bir klasik olan Laphroaig 10'a daha yakın durmalarını tavsiye edeceğim.  
 
 Sağlığınıza. 
  
