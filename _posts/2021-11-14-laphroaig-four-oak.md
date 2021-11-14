@@ -5,12 +5,13 @@ author: brutdefut
 categories: [ islay-peated-smoky ]
 image: "assets/images/laphroaig-four-oak/laphroaig-four-oak.jpeg"
 rating: 2.5
-preview-tr: Glen Garioch, Aberdeenshire'ın 2bin nüfuslu Oldmeldrum Köyü'nde bulunan ve muhteşem viskiler üreten küçük bir damıtımevi.   
-preview-en: Glen Garioch is a small distillery in Aberdeenshire's 2,000-populated Oldmeldrum that produces incredible whiskies.  
+preview-tr: Laphroaig Ailesi'nin 2017'de travel retail olarak piyasaya sürdüğü genç ekspresyon.     
+preview-en: Released in 2017, Four Oak reflects an experimental approach from The Laphroaig Distillery. 
 
 ---
 
-Laphroiag Ailesi'nin 2017'de travel retail olarak piyasaya sürdüğü, damııtımevinin deneysel tarafını yansıtan genç bir ekspresyon.  
+Laphroaig Ailesi'nin 2017'de travel retail olarak piyasaya sürdüğü, damııtımevinin deneysel tarafını yansıtan genç bir ekspresyon.  
+
 Burun; vanilya, yeşil limon, yeni kesilmiş çimen, çam balı ve keskin bitkisel aromalar. Havalandıkça çiçeksi, tatlı ve biraz fazlaca zarif hissettiriyor.  
 Damak; is, meşe, mangalda pişen tütsülenmiş et, iyot ve baharat. Arkadan arkaya çok hafif meyve dokunuşları var. Henüz tam olgunlaşmamış, hafif yağlı bir yapıya sahip.  
 Bitiş; yine tuzlu, kısa-orta arası ve sıcak. Malt kuruluğu, is ve meşe ön planda.  
@@ -32,7 +33,7 @@ Sağlığınıza.
 
 <p id="english"></p>
 
-A young, travel retail bottling from Laphroaig Family. Released in 2014, Four Oak reflects an experimental approach from the distillery.  
+A young, travel retail bottling from Laphroaig Family. Released in 2017, Four Oak reflects an experimental approach from the distillery.  
  
 Nose; vanilla, lime, fresh-cut grass, pine honey and herbal notes. With time the whisky gets floral, sweeter and gentle; maybe too gentle.  
 Palate; peat, toasted oak, smoke-grilled meat, iodine and spice. Slightly fruity and velvety at the back of the palate. Still young, needs more time.  
