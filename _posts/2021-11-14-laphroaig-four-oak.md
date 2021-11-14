@@ -11,12 +11,10 @@ preview-en: Glen Garioch is a small distillery in Aberdeenshire's 2,000-populate
 ---
 
 Laphroiag Ailesi'nin 2017'de travel retail olarak piyasaya sürdüğü, damııtımevinin deneysel tarafını yansıtan genç bir ekspresyon.  
-
 Burun; vanilya, yeşil limon, yeni kesilmiş çimen, çam balı ve keskin bitkisel aromalar. Havalandıkça çiçeksi, tatlı ve biraz fazlaca zarif hissettiriyor.  
-
 Damak; is, meşe, mangalda pişen tütsülenmiş et, iyot ve baharat. Arkadan arkaya çok hafif meyve dokunuşları var. Henüz tam olgunlaşmamış, hafif yağlı bir yapıya sahip.  
-
 Bitiş; yine tuzlu, kısa-orta arası ve sıcak. Malt kuruluğu, is ve meşe ön planda.  
+
 NAS, renklendirici mevcut, soğuk filtrasyon yapılıyor ve beni hiç mutlu etmeyen %40 abv ile şişeleniyor. Olgunlaştırma için dört farklı fıçı kullanılıyor:   
 
 -Ex-bourbon  
