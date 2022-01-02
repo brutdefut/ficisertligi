@@ -38,7 +38,7 @@ The classic expression of Bushmills, the first registered distillery to distill 
 Nose; vanilla, brown sugar, alcohol burn, apple soap.  
 Palate; sweetness, spice and watery feeling.  
 Finish; more spice, more sweetness, warm and short.  
-With the cooler, alcohol burn decreases a little and the whiskey becomes drinkable.  
+With the cooler stones, alcohol burn decreases a little and the whiskey becomes drinkable.  
 
 Triple distilled, like all other Irish whiskeys. Matured in bourbon and sherry casks and bottled at 40% abv (80 proof). Caramel coloured and blend of single malt and grain whiskeys. The grain used in the blend is purchased from Midleton Distillery.  
 
@@ -46,7 +46,7 @@ According to the brand, the classic expression has a recipe dating back to the "
 Bushmills Original is perfect for making a whiskey cocktail, for a shot with a beer or for serving to guests whose purpose is not to drink whiskey but to drink alcohol.  
 
 P.S:  
-1) Prohibition Era: The name was given to the period in the United States between 1920 and 1933 when the manufacture and sale of alcoholic beverages were prohibited. We all know the strong bond between Ireland and America. One of the biggest factors in the strengthening of this bond between them was that Ireland was one of the biggest sources of illicit whiskey needs of the aggrieved American citizens at that time. For this reason, it is possible to see different expressions of Bushmills, whose official license is registered with the date 1784, in many Hollywood movies.  
+1) Prohibition Era: The name was given to the period in the United States between 1920 and 1933 when the manufacture and sale of alcoholic beverages were prohibited. We all know the strong bond between Ireland and America. One of the biggest factors to strengthening this bond was that Ireland was one of the biggest sources of illicit whiskey needs of the aggrieved American citizens at that time. For this reason, it is possible to see different expressions of Bushmills, whose official license is registered with the date 1784, in many Hollywood movies.  
 
 2) Midleton Distillery: Largest distillery in Ireland in County Cork, owned by Irish Distillers ( inc. Jameson, Redbreast, Midleton Very Rare, Method Madness) a subsidiary of Pernord Ricard.  
 
