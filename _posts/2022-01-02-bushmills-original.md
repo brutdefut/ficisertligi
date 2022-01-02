@@ -12,7 +12,7 @@ preview-en: The classic expression of Bushmills, the first registered distillery
 
 Dünya'da, viski distile etme hakkı alan ilk damıtımevi (1608) ünvanına sahip Bushmills'in klasik versiyonu.    
 
-Burun; vanilya, esmer şeker, alkol sertliği ve çocukluğumuzdaki kokulu sabunlara benzeyen elma aroması.  
+Burun; vanilya, esmer şeker, alkol sertliği ve çocukluğumuzdaki kokulu sabunlara benzeyen elma rayihaları.  
 Damak; hafif tatlı, baharatlı ve sulu hissiyat.  
 Bitiş; yine baharatlı, şekerli, yakıcı ve kısa.  
 Soğutucu ile alkol keskinliği bir nebze azalıyor ve içilebilir hale geliyor.  
