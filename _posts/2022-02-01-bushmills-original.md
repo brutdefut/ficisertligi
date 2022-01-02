@@ -22,10 +22,10 @@ Tüm İrlanda viskileri gibi üç kez damıtılıyor. Burbon ve şeri fıçılar
 Markanın iddiasına göre klasik ekspresyonun ABD'de yaşanan "prohibition" dönemi öncesine dayanan bir reçetesi var.  
 Viski kokteyli yapmak, biranın yanında shot atmak ya da amacı viski içmek değil alkol almak olan misafirlere sunmak için birebir.  
 
-Dip Not:
-1)Prohibition: Abd'de, 1920-1933 arasında alkollü içeceklerin üretiminin ve satışının yasaklandığı döneme verilen ad. İrlanda-Amerika arasındaki sağlam bağ hepimizin malumu. Aralarındaki bağın güçlenmesindeki en büyük etkenlerden biri de o tarihlerde mağdur amerikan vatandaşlarının kaçak alkol ihtiyaçlarını gideren en büyük kaynaklardan birinin İrlanda olmasıdır. Bu nedenle, resmi lisansı 1784 tarihi ile kayıtlı Bushmills'in farklı ekspresyonlarını bir çok Hollywood filminde görmeniz mümkün.  
+Dip Not:  
+1) Prohibition: Abd'de, 1920-1933 arasında alkollü içeceklerin üretiminin ve satışının yasaklandığı döneme verilen ad. İrlanda-Amerika arasındaki sağlam bağ hepimizin malumu. Aralarındaki bağın güçlenmesindeki en büyük etkenlerden biri de o tarihlerde mağdur amerikan vatandaşlarının kaçak alkol ihtiyaçlarını gideren en büyük kaynaklardan birinin İrlanda olmasıdır. Bu nedenle, resmi lisansı 1784 tarihi ile kayıtlı Bushmills'in farklı ekspresyonlarını bir çok Hollywood filminde görmeniz mümkün.  
 
-2)Midleton Damıtımevi: County Cork'ta yer alan ve Pernord Ricard'ın yan kuruluşu Irish Distillers'a (Jameson, Redbreast, Midleton Very Rare, Method Madness... vb gibi) ait devasa damıtımevi.  
+2) Midleton Damıtımevi: County Cork'ta yer alan ve Pernord Ricard'ın yan kuruluşu Irish Distillers'a (Jameson, Redbreast, Midleton Very Rare, Method Madness... vb gibi) ait devasa damıtımevi.  
 
 Sağlığınıza. 
  
@@ -45,7 +45,7 @@ Triple distilled, like all other Irish whiskeys. Matured in bourbon and sherry c
 According to the brand, the classic expression has a recipe dating back to the "prohibition" period in the USA.  
 Bushmills Original is perfect for making a whiskey cocktail, for a shot with a beer or for serving to guests whose purpose is not to drink whiskey but to drink alcohol.  
 
-P.S:
+P.S:  
 1) Prohibition Era: The name was given to the period in the United States between 1920 and 1933 when the manufacture and sale of alcoholic beverages were prohibited. We all know the strong bond between Ireland and America. One of the biggest factors in the strengthening of this bond between them was that Ireland was one of the biggest sources of illicit whiskey needs of the aggrieved American citizens at that time. For this reason, it is possible to see different expressions of Bushmills, whose official license is registered with the date 1784, in many Hollywood movies.  
 
 2) Midleton Distillery: Largest distillery in Ireland in County Cork, owned by Irish Distillers ( inc. Jameson, Redbreast, Midleton Very Rare, Method Madness) a subsidiary of Pernord Ricard.  
