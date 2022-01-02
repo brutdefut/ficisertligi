@@ -23,7 +23,7 @@ Markanın iddiasına göre klasik ekspresyonun, ABD'de yaşanan "prohibition" d�
 Viski kokteyli yapmak, biranın yanında shot atmak ya da amacı viski içmek değil alkol almak olan misafirlere sunmak için birebir.  
 
 Dip Not:  
-1) Prohibition: ABD'de, 1920-1933 arasında alkollü içeceklerin üretiminin ve satışının yasaklandığı döneme verilen ad. İrlanda-Amerika arasındaki sağlam bağ hepimizin malumu. İkili ilişkilerdeki bağın güçlenmesindeki en büyük etkenlerden biri de, o tarihlerde mağdur amerikan vatandaşlarının kaçak alkol ihtiyaçlarını gideren en büyük kaynaklardan birinin İrlanda olmasıdır. Bu nedenle, resmi lisansı 1784 tarihi ile kayıtlı Bushmills'in farklı ekspresyonlarını bir çok Hollywood filminde görmeniz mümkün.  
+1) Prohibition: ABD'de, 1920-1933 arasında alkollü içeceklerin üretiminin ve satışının yasaklandığı döneme verilen ad. İrlanda-Amerika arasındaki sağlam bağ hepimizin malumu. İkili ilişkilerdeki bağın güçlenmesinde en büyük etkenlerden biri de, o tarihlerde mağdur amerikan vatandaşlarının kaçak alkol ihtiyaçlarını gideren en büyük kaynaklardan birinin İrlanda olmasıdır. Bu nedenle, resmi lisansı 1784 tarihi ile kayıtlı Bushmills'in farklı ekspresyonlarını bir çok Hollywood filminde görmeniz mümkün.  
 
 2) Midleton Damıtımevi: County Cork'ta yer alan ve Pernord Ricard'ın yan kuruluşu Irish Distillers'a (Jameson, Redbreast, Midleton Very Rare, Method Madness... vb gibi) ait devasa damıtımevi.  
 
