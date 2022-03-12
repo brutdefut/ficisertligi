@@ -24,15 +24,15 @@ Sağlığınıza.
 
 <p id="english"></p>
 
-What is "chill-filtered/non-chill-filtered" as we all see and are familiar with on whisky labels? Let's take a look.  
+What is "chill-filtered/non-chill-filtered" which we all see and are familiar with on whisky labels? Let's have a look.  
 
-Sometimes when we add ice or water to a whisky, we see that it becomes slightly blurry. The source of this reaction given by whisky is usually the fatty acids and proteins in the casks in which it matures. In order to prevent this situation, the name given to the process of passing the whisky through metal or paper filters by cooling it and preferred by some distilleries (especially blends) is called "chill-filtration".  
+Sometimes when we add ice or water into a whisky, we see that it becomes slightly blurry. The source of this reaction given by whisky is usually the fatty acids and proteins in the casks in which it matures. In order to prevent this situation, the process in which whisky is passed through metal or paper filters by cooling is called "chill-filtration", preferred by some distilleries (especially blends).
 
-The higher the grain ratio in whisky, the higher the fatty acids and proteins, the lower the cooling degree. For this reason, in order to ensure clarity in the filtration process, single malts are cooled to zero (0) and blended whiskies to minus four (-4) degrees.  
+The higher the grain ratio in whisky is, the higher the fatty acids and proteins are, which makes the cooling degree lower. For this reason, in order to ensure clarity in the filtration process, single malts are cooled to zero (0) and blended whiskies to minus four (-4) degrees.  
 
 Most of the peated whiskies and all of the cask strength whiskies require no chill filtration. Because when abv is 46% or higher, the chemicals mentioned above do not react with water/ice. E.g; Bunnahabhain has decided to keep all expressions at 46.3% abv and above, creating a simple solution against negative comments from consumers.  
 
-While it is generally accepted that the filtration process has no effect on the taste of whisky; one group that defends chill-filtration argues that whisky gets rid of sediment and residue is of higher quality. However, for us as consumers, the difference between the two types of whiskey is very difficult to understand. Even in blind tastings, experts could not detect serious differences between aromas. But if you have purist tendencies in whisky, like me, I am sure you would prefer that the whisky you drink is as pure as possible.
+While it is widely accepted that the filtration process has no effect on the taste of whisky; one group that defends chill-filtration argues that whisky gets rid of sediment and residue and it is of higher quality. However, for us, as consumers, the difference between the two types of whisky is very difficult to understand. Even in blind tastings, experts could not detect serious differences between aromas. But if you have purist tendencies in whisky, like me, I am sure you would prefer that the whisky you drink is as pure as possible.
 
 Cheer to all.           
   
