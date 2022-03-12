@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SOĞUK FİLTRASYON/CHILL-FILTERING"
+title:  "CHILL-FILTERING/SOĞUK FİLTRASYON"
 author: brutdefut
 image: "assets/images/non-chill-filtered/non-chill-filtered.JPG"
 preview-tr: Hepimizin viski şişelerinin üzerinde çokça gördüğü ve aşina olduğu tabirle "chill-filtered/non-chill filtered" nedir?       
