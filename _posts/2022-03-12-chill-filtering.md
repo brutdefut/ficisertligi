@@ -34,5 +34,5 @@ Most of the peated whiskies and all of the cask strength whiskies require no chi
 
 While it is widely accepted that the filtration process has no effect on the taste of whisky; one group that defends chill-filtration argues that whisky gets rid of sediment and residue and it is of higher quality. However, for us, as consumers, the difference between the two types of whisky is very difficult to understand. Even in blind tastings, experts could not detect serious differences between aromas. But if you have purist tendencies in whisky, like me, I am sure you would prefer that the whisky you drink is as pure as possible.
 
-Cheer to all.           
+Cheers to all.           
   
