@@ -28,18 +28,18 @@ Sağlığınıza.
 
 <p id="english"></p>
 
-First released in 1992, Knob Creek is an old-styled Kentucky bourbon that still is a brand of Beam Suntory.  
+First released in 1992, Knob Creek is an old-styled Kentucky bourbon that is still a brand of Beam Suntory.  
 
 Nose; spring flowers, vanilla, oak, roasted almonds, fresh and pleasant.  
 Palate; caramel, Turkish delight sweetness, fruity, spicey and well-rounded.  
 Finish; long, warm, intense and more spice, thanks to the powerful abv/proof.   
 
 Matured in almost 9 years in charred new American oak casks, NAS on the label, 50% abv(100 proof), non-chill-filtered and no caramel added for colouring.  
-Knob Creek is created by Booker Noa who is known as the father of the small-batch bourbon movement and his first aim was to produce whiskey like the pre-prohibition bourbons.  
+Knob Creek was created by Booker Noa who is known as the father of the small-batch bourbon movement and his first aim was to produce a whiskey like the pre-prohibition bourbons.  
 
-On the other hand, the whiskey has an amazing price/performance ratio for a core range bourbon in the market. Producing such an easy-drinking whiskey despite its high abv/proof needs some serious craftsmanship. One of my favourite bourbons, along with Woodford Reserve, which has a completely different flavour profile.  
+What is more, the whiskey has an amazing price/performance ratio for a core range bourbon in the market. Producing such an easy-drinking whiskey despite its high abv/proof requires some serious craftsmanship. One of my favourite bourbons, along with Woodford Reserve which has a completely different flavour profile.  
 
-P.S: Knob Creek name comes from a small water source, that ran through President Abraham Lincoln’s childhood farm.  
+P.S: The name Knob Creek comes from a small water source that runs through President Abraham Lincoln’s childhood farm.  
 
 Cheers to all.            
   
