@@ -36,6 +36,13 @@ post_class: post-template
 <!-- Featured Image -->
 {% include featured-image.html %}
 
+<!-- Flavor Profile -->
+{% if page.body and page.richness and page.smoke and page.sweetness %}
+    {% include flavor-profile.html %}
+{% endif %}
+
+
+
 <p class="scroll-to-english">
     <a href="#english">Scroll to English</a>
 </p>
