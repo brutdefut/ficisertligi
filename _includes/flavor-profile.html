@@ -1,30 +1,32 @@
-<div class="flavor-profile">
-    <div class="pacss-wrapper"> 
-        <span class="pacss-foreground">
-            <span class="pacss-number">{{ page.body }}</span>
-        </span> 
-        <span class="pacss pacss-{{ page.body | times:10 }} {% if page.body > 5 %} pacss-big {% endif %}"></span>
-        <p style="font-size: 12px;">Body</p>
+{% if page.body and page.richness and page.smoke_peat and page.sweetness %}
+    <div class="flavor-profile">
+        <div class="pacss-wrapper">
+            <span class="pacss-foreground">
+                <span class="pacss-number">{{ page.body }}</span>
+            </span>
+            <span class="pacss pacss-{{ page.body | times:10 }} {% if page.body > 5 %} pacss-big {% endif %}"></span>
+            <p style="font-size: 12px;">Body</p>
+        </div>
+        <div class="pacss-wrapper">
+            <span class="pacss-foreground">
+                <span class="pacss-number">{{ page.richness }}</span>
+            </span>
+            <span class="pacss pacss-{{ page.richness | times:10 }} {% if page.richness > 5 %} pacss-big {% endif %}"></span>
+            <p style="font-size: 12px;">Richness</p>
+        </div>
+        <div class="pacss-wrapper">
+            <span class="pacss-foreground">
+                <span class="pacss-number">{{ page.smoke_peat }}</span>
+            </span>
+            <span class="pacss pacss-{{ page.smoke_peat | times:10 }} {% if page.smoke_peat > 5 %} pacss-big {% endif %}"></span>
+            <p style="font-size: 12px;">Smoke/Peat</p>
+        </div>
+        <div class="pacss-wrapper">
+            <span class="pacss-foreground">
+                <span class="pacss-number">{{ page.sweetness }}</span>
+            </span>
+            <span class="pacss pacss-{{ page.sweetness | times:10 }} {% if page.sweetness > 5 %} pacss-big {% endif %}"></span>
+            <p style="font-size: 12px;">Sweetness</p>
+        </div>
     </div>
-    <div class="pacss-wrapper"> 
-        <span class="pacss-foreground">
-            <span class="pacss-number">{{ page.richness }}</span>
-        </span> 
-        <span class="pacss pacss-{{ page.richness | times:10 }} {% if page.richness > 5 %} pacss-big {% endif %}"></span>
-        <p style="font-size: 12px;">Richness</p>
-    </div>
-    <div class="pacss-wrapper"> 
-        <span class="pacss-foreground">
-            <span class="pacss-number">{{ page.smoke }}</span>
-        </span> 
-        <span class="pacss pacss-{{ page.smoke | times:10 }} {% if page.smoke > 5 %} pacss-big {% endif %}"></span>
-        <p style="font-size: 12px;">Smoke/Peat</p>
-    </div>
-    <div class="pacss-wrapper"> 
-        <span class="pacss-foreground">
-            <span class="pacss-number">{{ page.sweetness }}</span>
-        </span> 
-        <span class="pacss pacss-{{ page.sweetness | times:10 }} {% if page.sweetness > 5 %} pacss-big {% endif %}"></span>
-        <p style="font-size: 12px;">Sweetness</p>
-    </div>
-</div>
+{% endif %}
