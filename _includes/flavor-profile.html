@@ -1,16 +1,16 @@
 <div class="flavor-profile">
     <div class="pacss-wrapper"> 
         <span class="pacss-foreground">
-            <span class="pacss-number">{{ page.body }}</span>
+            <span class="pacss-number">{{ page.character }}</span>
         </span> 
-        <span class="pacss pacss-{{ page.body | times:10 }} {% if page.body > 5 %} pacss-big {% endif %}"></span>
+        <span class="pacss pacss-{{ page.body | times:10 }} {% if page.character > 5 %} pacss-big {% endif %}"></span>
         <p style="font-size: 12px;">Character</p>
     </div>
     <div class="pacss-wrapper"> 
         <span class="pacss-foreground">
-            <span class="pacss-number">{{ page.richness }}</span>
+            <span class="pacss-number">{{ page.complexity }}</span>
         </span> 
-        <span class="pacss pacss-{{ page.richness | times:10 }} {% if page.richness > 5 %} pacss-big {% endif %}"></span>
+        <span class="pacss pacss-{{ page.richness | times:10 }} {% if page.complexity > 5 %} pacss-big {% endif %}"></span>
         <p style="font-size: 12px;">Complexity</p>
     </div>
     <div class="pacss-wrapper"> 
