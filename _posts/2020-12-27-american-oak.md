@@ -5,8 +5,8 @@ author: brutdefut
 categories: [ lowland-irish ]
 image: "assets/images/americanoak-2/americanoak-2.jpg"
 rating: 3
-complexity: 3
-character: 3
+richness: 3
+body: 3
 sweetness: 7
 smoke_peat: 0
 preview-tr: Adı "Corner of the Field" anlamına gelen Auchentoshan'nın 2014 çıkışlı ekspresyonu. 
