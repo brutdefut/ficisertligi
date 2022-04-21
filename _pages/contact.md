@@ -26,22 +26,22 @@ comments: false
 <div class="share">
     <ul>
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://www.instagram.com/brutdefut">
+            <a target="_blank" href="https://www.instagram.com/brutdefut" rel="noopener noreferrer">
                 <i class="fab fa-instagram"></i>
             </a>
         </li>
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://www.twitter.com/ficisertligi">
+            <a target="_blank" href="https://www.twitter.com/ficisertligi" rel="noopener noreferrer">
                 <i class="fab fa-twitter"></i>
             </a>
         </li>
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://www.facebook.com/brut.defut.3">
+            <a target="_blank" href="https://www.facebook.com/brut.defut.3" rel="noopener noreferrer">
                 <i class="fab fa-facebook-f"></i>
             </a>
         </li>
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://www.pinterest.com/ficisertligi">
+            <a target="_blank" href="https://www.pinterest.com/ficisertligi" rel="noopener noreferrer">
                 <i class="fab fa-pinterest-p"></i>
             </a>
         </li>

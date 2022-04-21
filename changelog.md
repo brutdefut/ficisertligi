@@ -1,5 +1,9 @@
 # ficisertligi.com - Change Log
 
+## 2021-02-08, v4.4.2
+### Fixed
+- added rel=noopener noreferrer to external links
+
 ## 2021-02-08, v4.4.0
 ### Added
 - categories to the most right of the site logo per post
