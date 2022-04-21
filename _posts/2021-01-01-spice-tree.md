@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ blended ]
 image: "assets/images/spicetree-2/spicetree-2.jpg"
 rating: 4
+richness: 7
+body: 6
+sweetness: 5
+smoke_peat: 0
 preview-tr: Compass Box'ın baharatlı viski sevenler için hazırladığı ekspresyon.
 preview-en: From Compass Box for spicy whisky lovers. 
 ---
