@@ -8,7 +8,7 @@ rating: 3
 richness: 3
 body: 3
 sweetness: 7
-smoke/peat: 0
+smoke_peat: 0
 preview-tr: Adı "Corner of the Field" anlamına gelen Auchentoshan'nın 2014 çıkışlı ekspresyonu. 
 preview-en: American Oak is first released in 2014, before that its name was "Au Classic".
 ---
