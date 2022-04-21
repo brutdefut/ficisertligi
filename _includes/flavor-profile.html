@@ -16,17 +16,17 @@
         </div>
         <div class="pacss-wrapper">
             <span class="pacss-foreground">
-                <span class="pacss-number">{{ page.smoke_peat }}</span>
-            </span>
-            <span class="pacss pacss-{{ page.smoke_peat | times:10 }} {% if page.smoke_peat > 5 %} pacss-big {% endif %}"></span>
-            <p style="font-size: 12px;">Smoke/Peat</p>
-        </div>
-        <div class="pacss-wrapper">
-            <span class="pacss-foreground">
                 <span class="pacss-number">{{ page.sweetness }}</span>
             </span>
             <span class="pacss pacss-{{ page.sweetness | times:10 }} {% if page.sweetness > 5 %} pacss-big {% endif %}"></span>
             <p style="font-size: 12px;">Sweetness</p>
+        </div>
+        <div class="pacss-wrapper">
+            <span class="pacss-foreground">
+                <span class="pacss-number">{{ page.smoke_peat }}</span>
+            </span>
+            <span class="pacss pacss-{{ page.smoke_peat | times:10 }} {% if page.smoke_peat > 5 %} pacss-big {% endif %}"></span>
+            <p style="font-size: 12px;">Smoke/Peat</p>
         </div>
     </div>
 {% endif %}
