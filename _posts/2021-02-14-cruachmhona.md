@@ -8,7 +8,7 @@ rating: 4.5
 richness: 7
 body: 7
 sweetness: 3
-smoke_peat:8
+smoke_peat: 8
 preview-tr: Adı "peat stack/turba istifi" anlamına gelen limitli ekspresyon.
 preview-en: Limited edition expression from Bunnahabhain, meaning "peat stack" in Gaelic.
 
