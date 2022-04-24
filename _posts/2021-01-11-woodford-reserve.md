@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ bourbons ]
 image: assets/images/woodford-2/woodford-2.jpg
 rating: 4
+richness: 5
+body: 7
+sweetness: 9
+smoke_peat: 0
 preview-tr: Kentucky'nin en eski damıtımevinin Distiller's Select ekspresyonu. 
 preview-en: Distiller's Select expression from the oldest distillery in Kentucky.
 ---
