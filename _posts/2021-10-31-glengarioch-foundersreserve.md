@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ highland ]
 image: "assets/images/glengarioch-foundersreserve/glengarioch-foundersreserve.jpeg"
 rating: 4.5
+richness: 6
+body: 8
+sweetness: 8
+smoke_peat: 1
 preview-tr: Glen Garioch, Aberdeenshire'ın 2bin nüfuslu Oldmeldrum Köyü'nde bulunan ve muhteşem viskiler üreten küçük bir damıtımevi.   
 preview-en: Glen Garioch is a small distillery in Aberdeenshire's 2,000-populated Oldmeldrum that produces incredible whiskies.  
 
