@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ islay-peated-smoky ]
 image: "assets/images/wee-beastie/wee-beastie.jpg"
 rating: 4
+richness: 5
+body: 5
+sweetness: 4
+smoke_peat: 8
 preview-tr: Ardbeg Damıtımevi'nin (1815, MacDougall Ailesi) ürün yelpazesine kalıcı olarak eklediği 5 yaşındaki viskisi.
 preview-en: Wee Beastie is the last addition to the Ardbeg core range, presented in March 2020.
 
