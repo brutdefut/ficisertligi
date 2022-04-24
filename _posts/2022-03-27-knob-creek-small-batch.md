@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ bourbons ]
 image: "assets/images/knob-creek-small-batch/knob-creek.JPG"
 rating: 4
+richness: 6
+body: 6
+sweetness: 7
+smoke_peat: 0
 preview-tr: İlk kez 1992 yılında piyasaya sürülen, fiyat/performans oranı muhteşem, eski usul Kentucky burbonu.       
 preview-en: First released in 1992, Knob Creek is an old-styled Kentucky bourbon with an amazing price/performance ratio. 
 
