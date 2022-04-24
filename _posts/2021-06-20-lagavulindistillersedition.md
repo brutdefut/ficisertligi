@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ islay-peated-smoky ]
 image: "assets/images/lagavulin-distillers-edition/lagavulin-distillers-edition.jpg"
 rating: 5
+richness: 8
+body: 9
+sweetness: 6
+smoke_peat: 7
 preview-tr: İskoçya'nın en eski damıtımevlerinden biri olan Lagavulin tarafından her sene sınırlı sayıda piyasaya sürülen lezzetli ekspresyon.    
 preview-en: Distillers Edition is released in limited numbers each year by one of the oldest distilleries in Scotland, Lagavulin. 
 
