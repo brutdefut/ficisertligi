@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ islay-peated-smoky ]
 image: "assets/images/laphroaig-four-oak/laphroaig-four-oak.jpeg"
 rating: 2.5
+richness: 5
+body: 4
+sweetness: 3
+smoke_peat: 7
 preview-tr: Laphroaig Ailesi'nin 2017'de travel retail olarak piyasaya sürdüğü genç ekspresyon.     
 preview-en: Released in 2017, Four Oak reflects an experimental approach from The Laphroaig Distillery. 
 
