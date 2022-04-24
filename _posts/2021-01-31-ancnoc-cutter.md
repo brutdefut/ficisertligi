@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ highland, islay-peated-smoky ]
 image: "assets/images/cutter-2/cutter-2.jpg"
 rating: 4
+richness: 7
+body: 7
+sweetness: 6
+smoke_peat: 6
 preview-tr: Knockdhu Damıtımevi'nin 2014 çıkışlı, isli limited edition ekspresyonu.
 preview-en: A powerfully peated, limited edition bottling from Knockdhu Distillery.
 ---
