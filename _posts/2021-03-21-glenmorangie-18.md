@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ highland, speyside ]
 image: "assets/images/glenmorangie18/glenmorangie18.jpg"
 rating: 4.5
+richness: 8
+body: 7
+sweetness: 6
+smoke_peat: 0
 preview-tr: 1843 tarihli Glenmorangie Damıtımevi'nin genel satış portföyündeki en özel ve güzel ekspresyonlardan biri.
 preview-en: One of the most special and delicious bottlings from The Glenmorangie Distillery (Est. 1843) core range. 
 
