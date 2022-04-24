@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ bourbons ]
 image: "assets/images/treaty-oak/treaty-oak.jpg"
 rating: 3.5
+richness: 5
+body: 6
+sweetness: 9
+smoke_peat: 1
 preview-tr: 2006 yılında kurulan Treaty Oak Damıtımevi'nin yaklaşık 2 yaşında şişelenen ekspresyonu.
 preview-en: Ghost Hill Bourbon is a very exciting bottling from a young distillery called Treaty Oak.
 ---
