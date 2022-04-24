@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ highland ]
 image: "assets/images/macallan-sienna2/macallan-sienna2.jpeg"
 rating: 4.5
+richness: 7
+body: 8
+sweetness: 8
+smoke_peat: 0
 preview-tr: Sienna, Macallan'ın alamet-i farikası olan şeri fıçı olgunlaştırması kullanılarak piyasaya sürülen viskilerden en koyu ikinci renge sahip ekspresyon.    
 preview-en: Sienna is a fully sherry cask matured whisky that is a trademark maturing style for Macallan Distillery.  
 
