@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ blended ]
 image: "assets/images/johnniewalker-18/johnniewalker-18.jpg"
 rating: 4
+richness: 7
+body: 6
+sweetness: 5
+smoke_peat: 3
 preview-tr: Johnnie Walker 18 markanın premium serisine ait olan ve 18 farklı viskinin harmanlanması neticesinde ortaya çıkan üyesi.    
 preview-en: A premium Johnnie Walker and 18 is not only an age statement but the number of whiskies added to the blend.  
 
