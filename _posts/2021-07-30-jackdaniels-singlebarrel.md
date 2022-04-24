@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ bourbons ]
 image: "assets/images/jack-daniels-single-barrel/jack-daniels-single-barrel.jpg"
 rating: 3.5
+richness: 5
+body: 5
+sweetness: 8
+smoke_peat: 1
 preview-tr: 1875 yılında Jasper Newton "Jack " Daniel tarafından kurulan Lynchburg/Tennessee merkezli damıtımevinin premium serisine ait ekspresyonu.    
 preview-en: Jack Daniel's is founded by Jasper Newton "Jack" Daniel in 1875 and Single Barrel is a premium member of the world's top-selling American whiskey.  
 
