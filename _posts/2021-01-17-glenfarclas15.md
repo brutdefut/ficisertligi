@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ speyside, highland ]
 image: "assets/images/glenfarclas15-2/glenfarclas15-2.jpg"
 rating: 4.5
+richness: 8
+body: 8
+sweetness: 7
+smoke_peat: 2
 preview-tr: Grants Ailesi tarafından en çok tüketilen ekspresyonlardan biri olan Glenfarclas 15. 
 preview-en: One of the favourites of "The Grants Family" who has run Glenfarclas Distillery for six generations.
 ---
