@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ lowland-irish ]
 image: "assets/images/bushmills-original/bushmills-original.jpeg"
 rating: 2
+richness: 2
+body: 2
+sweetness: 4
+smoke_peat: 0
 preview-tr: Dünya'da, viski distile etme hakkı alan ilk damıtımevi (1608) ünvanına sahip Bushmills'in klasik versiyonu.       
 preview-en: The classic expression of Bushmills, the first registered distillery to distill whiskey in the world (1608). 
 
