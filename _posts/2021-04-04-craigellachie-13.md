@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ speyside ]
 image: "assets/images/craigellachie-13/craigellachie-13.jpg"
 rating: 4.5
+richness: 7
+body: 8
+sweetness: 6
+smoke_peat: 4
 preview-tr: Craigellachie Damıtımevi'nin 2014 yılında piyasaya sürdüğü, geleneksel Speyside viski üretiminin en başarılı örneklerinden biri. 
 preview-en: First released in 2014, Craigellachie 13 is one of the best examples of the traditional Speyside whiskies.
 
