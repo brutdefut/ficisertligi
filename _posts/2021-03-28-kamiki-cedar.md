@@ -5,6 +5,10 @@ author: brutdefut
 categories: [ japan-asia, blended ]
 image: "assets/images/kamiki-cedar2/kamiki-cedar2.jpg"
 rating: 3
+richness: 4
+body: 5
+sweetness: 6
+smoke_peat: 0
 preview-tr: Miwa Dağı'nın eteklerinden gelen ve Dünya'da sedir ağacı fıçılarında bitiş verilen ilk viski.
 preview-en: World's first cedar cask finish whisky from The Mount Miwa in Nara, Japan. 
 
@@ -14,7 +18,7 @@ Japon sake üreticilerinin merkezi olarak bilinen Nara kentinde bulunan Miwa Da�
 
 Burun; narenciye, taze çimen, yeni kesilmiş ağaç kokuları. Çiçeksi ve yumuşak.  
 Damak; elma, hafif nane ve karabiber. Damak arkasında buruna göre daha tatlı, yakıcı ve sert. Sedir keskinliği öne çıkıyor.  
-Bitiş; baharatlı, uzun, köşeli ve çam sakızı benzeri ağaç kokuları devam ediyor.  
+Bitiş; baharatlı, uzun ve köşeli; çam sakızı benzeri ağaç kokuları devam ediyor.  
 Kadehte bekledikçe çimen notaları baskınlaşıyor. 
 
 Soğuk filtrasyon yapılmıyor, %48 alkol oranı ile yaş belirtilmeden şişeleniyor. Bol ödüllü harmanda, Japon-Dünya viskileri ve firmanın tabiri ile ülkedeki en saf kaynak suları var. Fakat içeriğe dair spesifik bilgi verilmiyor. 
