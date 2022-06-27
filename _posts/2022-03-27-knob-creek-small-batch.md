@@ -20,7 +20,7 @@ Damak; karamel, çifte kavrulmuş lokum tatlılığı, meyvemsi, baharatlı ve d
 Bitiş; yüksek alkol oranı sayesinde uzun, sıcak, yoğun ve yine biberli.  
 
 NAS, %50 abv, renklendirici yok, soğuk filtrasyon yapılmıyor ve içi yakılarak ilk kez kullanılan Amerikan meşe fıçılarında yaklaşık 9 yıl olgunlaştırılıyor.  
-"Small Batch" akımının öncüsü olarak bilinen Booker Noe tarafından yaratılan burbonda, özellikle Amerika'da 1920-1933 yılları arasında yaşanan "prohibiton" dönemi öncesinde üretilen viskilere benzer bir tat yakalanmak istenmiş.  
+"Small Batch" akımının öncüsü olarak bilinen Booker Noe tarafından yaratılan burbonda, özellikle Amerika'da 1920-1933 yılları arasında yaşanan "prohibition" dönemi öncesinde üretilen viskilere benzer bir tat yakalanmak istenmiş.  
 
 Diğer yandan, piyasadaki diğer burbonlar ile karşılaştırıldığında fiyat/performans oranı muhteşem. Yüksek alkol oranı ile böylesine kolay içimli burbon üretebilmek ciddi ustalık isteyen bir iş. Bambaşka karaktere sahip Woodford Reserve ile birlikte iki favori burbonumdan biri.  
 
