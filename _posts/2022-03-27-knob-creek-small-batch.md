@@ -16,7 +16,7 @@ preview-en: First released in 1992, Knob Creek is an old-styled Kentucky bourbon
 İlk kez 1992 yılında piyasaya sürülen ve halen Beam-Suntory bünyesinde bulunan eski usul Kentucky burbonu.  
 
 Burun; bahar çiçekleri, vanilya, meşe, kavrulmuş badem, ferah ve iç açıcı. Genel koku profili harika, yazlık bir parfüm gibi.  
-Damak; karamel, çifte kavrulmuş lokum tatlılığı, meyvemsi, baharatlı ve dengeli. 
+Damak; karamel, çifte kavrulmuş lokum tatlılığı, meyvemsi, baharatlı ve dengeli.  
 Bitiş; yüksek alkol oranı sayesinde uzun, sıcak, yoğun ve yine biberli.  
 
 NAS, %50 abv, renklendirici yok, soğuk filtrasyon yapılmıyor ve içi yakılarak ilk kez kullanılan Amerikan meşe fıçılarında yaklaşık 9 yıl olgunlaştırılıyor.  
