@@ -17,7 +17,7 @@ preview-en: Reintroduced in April 2016, Green Label is one of the best blended m
 Nisan 2016'da yeniden şişelenen Johnnie Walker Green Label, piyasadaki en iyi malt harmanlarından biri ve bu başarısını İskoçya'nın üç farklı bölgesinden gelen dört muhteşem single malta borçlu; Caol Ila (Islay), Talisker (Isle of Skye), Linkwood (Speyside) and Cragganmore (Speyside).  
 
 Burun; çiçeksi notalar, is ve meşe.  
-Damak; bal, vanilya ve tuz.  
+Damak; bal, vanilya ve hafif tuzlu.  
 Bitiş; orta-uzun arası, çimen ve biber.  
 Ve kesinlikle kadehte bir kaç dakika bekleterek içmenizi tavsiye ederim. Çünkü Green Label resmen bir çiçek gibi açıyor ve viskideki katmanları daha çok hissedebiliyorsunuz.  
 
