@@ -44,8 +44,8 @@ Reintroduced in April 2016, Green Label is one of the best blended malt whiskies
 
 Nose; floral, lovely oak, smoke.  
 Palate; honey, vanilla and slightly salty.  
-Finish; Grassy, peppery and medium to long.  
-Ah, and waiting for a couple of minutes in the glass, you must do that. Green Label opens up and you can taste the different layers of the whisky.   
+Finish; grassy, peppery and medium to long.  
+Oh, and you must wait for a couple of minutes after pouring it into the glass. Green Label opens up and you can taste the different layers of the whisky.   
 
 43% abv, chill-filtered, caramel coloured (E150) and matured in American and European oaks for at least 15 years. Also, multiply awarded as you can see below.  
 
@@ -58,7 +58,7 @@ Ah, and waiting for a couple of minutes in the glass, you must do that. Green La
 
 Overall, Green Label has good complexity and it is an easy-drinking smoky whisky. Perfect for Johnnie Walker and smoky whisky lovers.  
 
-P.S: In the whisky world, surprisingly, only 10% percent of the whiskies are single malts, and the other 90 percent are blended scotches.  
+P.S: In the whisky world, surprisingly, only 10% of the whiskies are single malts, and the other 90 percent are blended scotches.  
 
 Cheers to all.            
   
