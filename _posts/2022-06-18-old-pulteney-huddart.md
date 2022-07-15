@@ -28,7 +28,7 @@ Olgunlaştırmada ilk olarak ikinci dolum Amerikan meşe fıçıları tercih edi
 Huddart, Old Pulteney ana kadrosundaki tek isli ekspresyon ve bu karakteri elde etmek için yıllandırmada kullandıkları Knockdhu Damıtımevi fıçıları nedeniyle de çok cesur bir tarzı var. Herkesin damak zevkine hitap etmeyebilir fakat benim gibi deneysel yaklaşımları sevenler için biçilmiş kaftan.  
 
 Dip Not:  
-1) Huddart ekspresyonu, adını, aynı zamanda Pulteney Limanı'nı inşa eden İngiliz Ulusal Balıkçılar Birliği için hazırladığı harita ve grafiklerle tanınan Kaptan ve Hidrograf Joseph Huddart'tan almaktadır.  
+1) Huddart ekspresyonu adını, aynı zamanda Pulteney Limanı'nı inşa eden, İngiliz Ulusal Balıkçılar Birliği için hazırladığı harita ve grafiklerle tanınan Kaptan ve Hidrograf Joseph Huddart'tan almaktadır.  
 2) Yukarıda bahsi geçen ve damıtımevinin gururla bahsettiği geleneksel tarzdaki Dunnage Depoları, kalın taş duvarları, toprak zeminleri ve alçak tavanları ile olgunlaştırma sürecindeki hava şartlarını mümkün olduğunca sabit ve dengeli kılmakla meşhurlar.  
 
 Sağlığınıza.     
