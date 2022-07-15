@@ -3,7 +3,7 @@ layout: post
 title:  "Johnnie Walker Green Label"
 author: brutdefut
 categories: [ blended, islay-peated-smoky ]
-image: "assets/images/johnniewalker-greenlabel/johnniewalker-greenlabel.JPG"
+image: "assets/images/johnniewalker-greenlabel-2/johnniewalker-greenlabel-2.JPG"
 rating: 3.5
 richness: 6
 body: 6
