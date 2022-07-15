@@ -21,7 +21,7 @@ Damak; bal, vanilya ve tuz.
 Bitiş; orta-uzun arası, çimen ve biber.  
 Ve kesinlikle kadehte bir kaç dakika bekleterek içmenizi tavsiye ederim. Çünkü Green Label resmen bir çiçek gibi açıyor ve viskideki katmanları daha çok hissedebiliyorsunuz.  
 
-Soğuk filtrasyon uygulanıyor, renklendirici (E150) kullanılıyor ve %43 abv ile şişeleniyor. Harmanda en az 15 yıl olgunlaştırılmış, dört farklı damıtımevinden alınan viskiler kullanılıyor. Diğer yandan, aşağıda göreceğiniz gibi, farklı yıllarda üretilmiş şişelemeleri bir çok ödül kazanmış.  
+Soğuk filtrasyon uygulanıyor, renklendirici (E150) kullanılıyor ve %43 abv ile şişeleniyor. Harmanda en az 15 yıl olgunlaştırılmış, dört farklı damıtımevinden alınan viskiler kullanılıyor. Diğer yandan, aşağıda göreceğiniz gibi, farklı yıllarda üretilmiş ekspresyonları bir çok ödül kazanmış.  
 
 -World Whiskies Awards 2020, 13-20 yaş arası best blended scotch  
 -International Spirits Challenge 2019, 12-20 yaş arası best blended scotch  
