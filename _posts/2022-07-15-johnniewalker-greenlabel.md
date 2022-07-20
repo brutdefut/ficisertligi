@@ -23,8 +23,8 @@ Ve kesinlikle kadehte bir kaç dakika bekleterek içmenizi tavsiye ederim. Çün
 
 Soğuk filtrasyon uygulanıyor, renklendirici (E150) kullanılıyor ve %43 abv ile şişeleniyor. Harmanda en az 15 yıl olgunlaştırılmış, dört farklı damıtımevinden alınan viskiler kullanılıyor. Diğer yandan, aşağıda göreceğiniz gibi, farklı yıllarda üretilmiş ekspresyonları bir çok ödül kazanmış.  
 
--World Whiskies Awards 2020, 13-20 yaş arası best blended scotch  
--International Spirits Challenge 2019, 12-20 yaş arası best blended scotch  
+-World Whiskies Awards 2020, 13-20 yaş Best Blended Scotch  
+-International Spirits Challenge 2019, 12-20 yaş Best Blended Scotch  
 -International Wine & Spirit Competition, 2019 altın, 2017 gümüş  
 -World Whiskies Awards 2017, World's Best Blended Malt   
 -Jim Murray's Whisky Bible 2014, Liquid Gold ödülü    
