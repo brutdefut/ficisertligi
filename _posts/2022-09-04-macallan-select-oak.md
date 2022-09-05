@@ -44,7 +44,7 @@ I love the "earthy" feeling of this scotch and it reminds me of Glenfarclas 15 a
 "One of the best NAS whiskies I've ever had." This is a sentence from my first notes in 2020. After two years, delicious NAS whiskies come and go and all in all, Select Oak is still in the Top 5.    
 
 P.S:
-The Macallan's famous oak sherry casks are bringing to the distillery from Jerez, Spain. Surprisingly, in the maturing process, they started to use bourbon oak casks a short time ago, before the new millennium. And finally in 2004, The Macallan released the "Fine Oak" series.  
+The Macallan's famous oak sherry casks are being brought to the distillery from Jerez, Spain. Surprisingly, in the maturing process, they started to use bourbon oak casks a short time ago, before the new millennium. And finally in 2004, The Macallan released the "Fine Oak" series.  
 
 Cheers to all.             
   
