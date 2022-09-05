@@ -7,7 +7,7 @@ image: "assets/images/macallan-select-oak/macallan-select-oak.JPG"
 rating: 4
 richness: 7
 body: 7
-sweetness: 7
+sweetness: 6
 smoke_peat: 0
 preview-tr: Select Oak, Macallan'ın çok sevilen 1824 serisindeki duty-free ekspresyonlardan biri.        
 preview-en: Select Oak is one of the duty-free expressions in Macallan's much-loved 1824 series.  
