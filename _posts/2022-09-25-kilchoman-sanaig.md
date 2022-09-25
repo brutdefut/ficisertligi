@@ -16,7 +16,7 @@ preview-en: Sanaig is a core range expression from proudly independent, family-o
 
 Kilchoman halen aile işletmesi olarak çalışmaya devam eden, bağımsızlığı ile gurur duyan ve aynı zamanda Islay Adası'nın en genç damıtımevi. (2005) 2016 yılında piyasaya sürülen Sanaig ise, nev-i şahsına münhasır bu damıtımevinin, adını Atlantik kıyısında yer alan küçük bir körfezden alan ekspresyonu.  
 
-Nose; limon kekiği, taze kesilmiş çimen, deri ve kestane balı.  
+Burun; limon kekiği, taze kesilmiş çimen, deri ve kestane balı.  
 Damak; incir, narenciye ve turba isi ile kurutulmuş meyveler ve bolca baharat.   
 Bitiş; orta uzun arası, is, kara biber ve üzüm.  
 Kadehte bir kaç dakika geçirdikten sonra is kaybolmaya başlıyor ve tatlı, meyveli aromalar baskınlaşıyor.  
@@ -26,11 +26,10 @@ Sanaig'in turba seviyesi 50 ppm civarı, NAS, doğal renge sahip, soğuk filtras
 Yeni bir damıtımevi ürünü olsa da kısa sürede bir çok ödülü mevcut;  
 -The Scotch Masters, 2022 En iyi Islay Malt Viski  
 -International Spirits Challenge, 2022 altın  
--Islay NAS 2019 altın, 2018 gümüş  
-The Scotch Whisky Masters (The Spirits Business)  
+-The Spirits Business, Islay NAS 2019 altın, 2018 gümüş    
 -The IWSC 2022, 95 puan  
 
-Genel profil olarak, genç yaşına rağmen kusursuz damak dengesine sahip, dolgun bir isli viski. Şeri-İs-NAS üçlüsünden hoşlanan viskiseverler için biçilmiş kaftan.   
+Genel profil olarak genç yaşına rağmen kusursuz damak dengesine sahip, dolgun bir isli viski. Şeri-İs-NAS üçlüsünden hoşlanan viskiseverler için biçilmiş kaftan.   
 
 Sağlığınıza.  
    
@@ -48,8 +47,7 @@ Sanaig's peat level is 50 ppm, NAS, naturally coloured, non-chill-filtered, 46% 
 Kilchoman is a new distillery but Sanaig won many awards in no time.  
 -The Scotch Masters, 2022 Best Islay Single Malt Whisky  
 -International Spirits Challenge, 2022 gold  
--Islay No Age Statement 2019 gold, 2018 silver  
-The Scotch Whisky Masters (The Spirits Business)  
+-The Spirits Business, Islay No Age Statement 2019 gold, 2018 silver   
 -The IWSC 95 points in 2022  
 
 Overall, the whisky is a very well-rounded, perfectly balanced and peated young whisky. Definitely a dram for peat-sherry-NAS lovers.   
