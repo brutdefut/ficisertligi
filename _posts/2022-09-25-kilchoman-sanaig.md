@@ -7,7 +7,7 @@ image: "assets/images/kilchoman-sanaig/kilchoman-sanaig.JPG"
 rating: 4.5
 richness: 8
 body: 7
-sweetness: 6
+sweetness: 5
 smoke_peat: 8
 preview-tr: 2016 çıkışlı Sanaig, bağımsızlığı ile gurur duyan Kilchoman Damıtımevi'nin şeri yoğunluklu ekspresyonu.        
 preview-en: Sanaig is a core range expression from proudly independent, family-owned Kilchoman Distillery.     
