@@ -42,7 +42,7 @@ Palate; figs, citrus and peat smoke with dried fruits and lots of spice, thanks 
 Finish; medium to long, smoke, black pepper and raisins.  
 After a few minutes in the tumbler, peat smoke fades and sweet and fruity notes shine out.  
 
-Sanaig's peat level is 50 ppm, NAS, naturally coloured, non-chill-filtered, 46% abv and approximately 5 years old. This lovely expression is a vatting of both Oloroso sherry (%70) and bourbon (%30) casks and all whisky is matured in traditional dunnage warehouses which I like very much.  
+Sanaig's peat level is 50 ppm, NAS, naturally coloured, non-chill-filtered, 46% abv and approximately 5 years old. This lovely expression is a vatting of both Oloroso sherry (%70) and bourbon (%30) casks and all whisky is matured in traditional dunnage warehouses, which I like very much.  
 
 Kilchoman is a new distillery but Sanaig won many awards in no time.  
 -The Scotch Masters, 2022 Best Islay Single Malt Whisky  
@@ -50,6 +50,6 @@ Kilchoman is a new distillery but Sanaig won many awards in no time.
 -The Spirits Business, Islay No Age Statement 2019 gold, 2018 silver   
 -The IWSC 95 points in 2022  
 
-Overall, the whisky is a very well-rounded, perfectly balanced and peated young whisky. Definitely a dram for peat-sherry-NAS lovers.   
+Overall, Kilchoman Sanaig is a very well-rounded, perfectly balanced and peated young whisky. Definitely a dram for peat-sherry-NAS lovers.   
 
 Cheers to all.  
