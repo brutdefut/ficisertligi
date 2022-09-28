@@ -31,6 +31,8 @@ Sağlığınıza.
    
 -----------------------------------------------
 
+<p id="english"></p>
+
 Select Oak is a travel retail expression from The Macallan's 1824 Collection; the others are Whisky Maker's Edition and Estate Reserve.   
 
 Nose; powerful nutmeg, red berries and burnt sugar, thanks to the sherry influence.  
