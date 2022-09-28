@@ -35,6 +35,8 @@ Sağlığınıza.
    
 -----------------------------------------------
 
+<p id="english"></p>
+
 Kilchoman is Islay's newest distillery (Est. 2005), family-owned and proudly independent. Sanaig is a core range expression (released in 2016), named after an inlet on the Atlantic Coast in the Islay Region.   
 
 Nose; lemon thyme, freshly cut grass, leather and sweet chestnut honey.  
