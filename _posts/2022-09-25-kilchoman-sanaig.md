@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kilchoman Sanaig"
+title:  "KILCHOMAN SANAIG"
 author: brutdefut
 categories: [ islay-peated-smoky ]
 image: "assets/images/kilchoman-sanaig/kilchoman-sanaig.JPG"
