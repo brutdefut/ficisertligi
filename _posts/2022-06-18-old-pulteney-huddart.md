@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Old Pulteney Huddart"
+title:  "OLD PULTENEY HUDDART"
 author: brutdefut
 categories: [ islay-peated-smoky ]
 image: "assets/images/old-pulteney-huddart/old-pulteney-huddart.jpeg"
