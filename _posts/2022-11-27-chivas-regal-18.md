@@ -62,7 +62,7 @@ Chivas is one of the most popular scotches in Asia, and also in Europe. You can 
 Rumor has it that Chivas has 85 different aromas in the blend; assertive, isn't it? I did not try to count them all but Chivas Regal 18 is definitely a very well-executed, easy-drinking and approachable blend for sure.   
 
 P.S:  
-1)Founders James and John Chivas brothers were known as grocers in Aberdeen, for selling exotic goods. After the last member of the Chivas Family died in 1893, Alexander Smith and Master Blender Charles Stewart Howard bought the company in 1895. And surprisingly, in 1909, the first "Chivas Regal" named whisky was a fancy 25-year-old scotch for the US market.  
+1)Founders James and John Chivas brothers were known as grocers in Aberdeen, for selling exotic goods. After the last member of the Chivas Family died in 1893, Alexander Smith and Master Blender Charles Stewart Howard bought the company in 1895. And surprisingly, in 1909, the first whisky named "Chivas Regal" was a fancy 25-year-old scotch for the US market.  
 
 2)Frank Sinatra was a big fan. He liked to drink Chivas, both before and after his performances.  
 
