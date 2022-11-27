@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chivas Regal 18"
+title:  "CHIVAS REGAL 18"
 author: brutdefut
 categories: [ blended ]
 image: "assets/images/chivas-regal-18/chivas-regal-18.JPG"
