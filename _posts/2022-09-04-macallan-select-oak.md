@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Macallan Select Oak"
+title:  "MACALLAN SELECT OAK"
 author: brutdefut
 categories: [ speyside, highland ]
 image: "assets/images/macallan-select-oak/macallan-select-oak.JPG"
