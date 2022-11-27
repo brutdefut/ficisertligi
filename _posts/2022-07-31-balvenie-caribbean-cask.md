@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Balvenie Caribbean Cask"
+title:  "THE BALVENIE CARIBBEAN CASK"
 author: brutdefut
 categories: [ speyside ]
 image: "assets/images/balvenie-caribbean-cask/balvenie-caribbean-cask.jpg"
