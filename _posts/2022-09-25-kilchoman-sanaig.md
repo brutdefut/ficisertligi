@@ -14,7 +14,7 @@ preview-en: Sanaig is a core range expression from proudly independent, family-o
      
 ---
 
-Kilchoman halen aile işletmesi olarak çalışmaya devam eden, bağımsızlığı ile gurur duyan ve aynı zamanda Islay Adası'nın en genç damıtımevi. (2005) 2016 yılında piyasaya sürülen Sanaig ise, nev-i şahsına münhasır bu damıtımevinin, adını Atlantik kıyısında yer alan küçük bir körfezden alan ekspresyonu.  
+Kilchoman halen aile işletmesi olarak çalışmaya devam eden, bağımsızlığı ile gurur duyan ve aynı zamanda, 2005 kuruluş tarihi ile, Islay Adası'nın en genç damıtımevi. 2016 yılında piyasaya sürülen Sanaig ise, nev-i şahsına münhasır bu damıtımevinin, adını Atlantik kıyısında yer alan küçük bir körfezden alan ekspresyonu.  
 
 Burun; limon kekiği, taze kesilmiş çimen, deri ve kestane balı.  
 Damak; incir, narenciye ve turba isi ile kurutulmuş meyveler ve bolca baharat.   
@@ -29,7 +29,7 @@ Yeni bir damıtımevi ürünü olsa da kısa sürede bir çok ödülü mevcut;
 -The Spirits Business, Islay NAS 2019 altın, 2018 gümüş    
 -The IWSC 2022, 95 puan  
 
-Genel profil olarak genç yaşına rağmen kusursuz damak dengesine sahip, dolgun bir isli viski. Şeri-İs-NAS üçlüsünden hoşlanan viskiseverler için biçilmiş kaftan.   
+Genel profil olarak, genç yaşına rağmen kusursuza yakın damak dengesine sahip, dolgun bir isli viski. Şeri-İs-NAS üçlüsünden hoşlanan viskiseverler için biçilmiş kaftan.   
 
 Sağlığınıza.  
    
