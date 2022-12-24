@@ -30,7 +30,7 @@ Amber renginde fakat renklendirici olarak karamel kullanılıyor, soğuk filtras
 
 Chivas Regal, Asya ve Avrupa pazarındaki en popüler viskilerden biri. Tüm içki reyonlarında birden çok ve çeşitli Chivas şişesi görebilirsiniz ve bu nedenle, viski meraklısı olmasanız bile muhtemelen Chivas Regal'i daha önce duymuşsunuzdur.  
 
-Chivas 18'de, söylenenlere göre, 85 farklı aroma varmış; çok iddialı ve hayranlık uyandırıcı değil mi? elbette hepsini tek tek bulmaya çalışmadım ama Chivas Regal 18 kesinlikle iyi harmanlanmış, sek, soğutucuyla ya da kokteyllerde rahatlıkla tercih edilebilecek, içimi rahat ve ulaşması kolay bir blended viski.   
+Chivas 18'de, söylenenlere göre, 85 farklı aroma varmış; çok iddialı ve hayranlık uyandırıcı değil mi? Elbette hepsini tek tek bulmaya çalışmadım ama Chivas Regal 18 kesinlikle iyi harmanlanmış, sek, soğutucuyla ya da kokteyllerde rahatlıkla tercih edilebilecek, içimi rahat ve ulaşması kolay bir blended viski.   
 
 Dip Not:  
 1)Kurucular James ve John Chivas, Aberdeen'de kahve, baharat ve benzeri diğer ürünler yanında elbette viski sattıkları bir dükkana sahiptiler. 1893'te Chivas Ailesi'nin son üyesi öldükten sonra, 1895'te Alexander Smith ve Baş Harmancı Charles Stewart Howard firmayı satın aldılar. Ve şaşırtıcı bir şekilde, "Chivas Regal" adıyla piyasaya çıkan ilk ürün, Amerika pazarı için üretilen ve 1909'da tanıtımı yapılan 25 yıllık premium bir viskiydi.  
