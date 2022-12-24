@@ -17,7 +17,7 @@ preview-en: Chivas Regal 18 is one of the most powerful kings in the blended sco
 Efsane baş harmancı Colin Scott tarafından yaratılan ve 1997'de piyasaya sürülen Chivas Regal 18, blend viskiler diyarının en güçlü krallarından biri.  
 
 Burun; kuru meyveler, yeşil limon, bal ve hafif muskat rayihaları.  
-Damak; çikolata parçaları, tatlı kırmızı biber, karamel ve biraz is mevcut. Farklı tahıllardan üretilen viskilerinin harmanda kullanılması sebebiyle malt kuruluğu ve meyve notaları damağın arkasına kadar devam ediyor.  
+Damak; çikolata parçaları, tatlı kırmızı biber, karamel ve biraz is mevcut. Farklı tahıllardan üretilen viskilerin harmanda kullanılması sebebiyle malt kuruluğu ve meyve notaları damağın arkasına kadar devam ediyor.  
 Bitiş; uzun olgunlaştırma sürecinin etkisiyle bolca meşe ve baharat.  
 
 Amber renginde fakat renklendirici olarak karamel kullanılıyor, soğuk filtrasyon uygulanıyor, alkol oranı %40 ve meşe fıçılarda olgunlaşıyor. Çoğunluğu Speyside bölgesinde yer alan 20 farklı malt ve tahıl viskisinin karışımından mütevellit ve firma tarafından premium ürün kategorisinde piyasaya sunuluyor.  
