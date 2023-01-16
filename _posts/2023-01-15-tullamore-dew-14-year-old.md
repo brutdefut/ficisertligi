@@ -54,7 +54,7 @@ The whiskey tasted better a few days after it was opened.
 
 Overall, the whiskey is light, velvety soft, and has a fresh feeling like a Speyside scotch. With cooler stones, a perfect summer dram, thanks to the triple distillation.    
 
-P.S: The Tullamore name derives from Tulach Mhór, meaning ‘big hill’. on the other hand, DEW comes from the initials of an early owner, Daniel Edmund Williams who started his career as a stable boy at the distillery.  
+P.S: The Tullamore name derives from Tulach Mhór, meaning ‘big hill’. On the other hand, DEW comes from the initials of an early owner, Daniel Edmund Williams who started his career as a stable boy at the distillery.  
 
 Cheers to all.  
       
