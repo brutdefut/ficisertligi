@@ -2,7 +2,7 @@
 layout: post
 title:  "OLD PULTENEY HUDDART"
 author: brutdefut
-categories: [ islay-peated-smoky ]
+categories: [ highland, islay-peated-smoky ]
 image: "assets/images/old-pulteney-huddart/old-pulteney-huddart.jpeg"
 rating: 3.5
 richness: 6
