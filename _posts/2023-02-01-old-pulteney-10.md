@@ -38,13 +38,13 @@ Sağlığınıza.
 
 <p id="english"></p>
 
-Released in 2018 from the famous maritime single malt producer, Old Pulteney Distillery; the 10-year-old travel retail expression is bottled exclusively for globetrotters.  
+Released in 2018 by the famous maritime single malt producer, Old Pulteney Distillery, the 10-year-old travel retail expression is bottled exclusively for globetrotters.  
 
 Nose; vanilla, blossom honey, lemon peels.  
 Palate; greengage plum, white raisins, fresh and salty.  
 Finish; short to medium, toasty oak, grassy, herbal, Scapa-like style.  
 
-40% abv, 100 cl, unpeated, yellow gold in color with caramel, matured in second-fill American oak ex-bourbon casks. The water source is coming from Loch Hempriggs.  
+40% abv, 100 cl, unpeated, yellow gold in color with caramel, matured in second-fill American oak ex-bourbon casks. The water source comes from Loch Hempriggs.  
 The whisky is a little watery, some more abv might be good. The nose profiles in the bottle and glass are different from each other.  
 According to the distillery, their uncommonly shaped pot stills with extra large boiling balls provide a more fragrant character to the whisky.  
 
@@ -53,7 +53,7 @@ According to the distillery, their uncommonly shaped pot stills with extra large
 Old Pulteney 10 is a traveller's exclusive and some of you might think that "oh ok, another boring duty-free bottling", but believe me, it's a decent one to try.  
 
 P.S:  
-1) Old Pulteney Distillery is named after Sir William Pulteney, governor of the British Fisheries Society.  
+1) Old Pulteney Distillery was named after Sir William Pulteney, governor of the British Fisheries Society.  
 2) The distillery's production capacity is just one million liters, very small compared to most of the others.  
 
 Cheers to all.   
