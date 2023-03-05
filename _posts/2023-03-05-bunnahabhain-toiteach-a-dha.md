@@ -58,7 +58,7 @@ Toiteach A Dhà is greatly awarded in different competitions;
 -Singapore World Spirits Competition 2019 double gold.    
 
 Overall, zesty with no harsh corners and it still feels young but in a good way.  
-An interesting one to try for those who like new approaches and good value for money.  
+An interesting one to try for those who like new approaches and good value for money whiskies.  
 
 P.S:  
 1) Toiteach A Dhà means 'Smoky Two' in Scots Gaelic, pronounced "Toch-ach ah-ghaa".  
