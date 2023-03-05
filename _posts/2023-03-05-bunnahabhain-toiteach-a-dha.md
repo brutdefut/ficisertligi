@@ -17,7 +17,7 @@ preview-en: Toiteach A Dhà is the only peaty expression in the core range of Bu
 Bunnahabhain'in ilk isli viskisi olan ve limitli sayıda üretilen Toiteach'ın ikinci versiyonu karşımızda, hem de "core range" olarak.  
 
 Burun; limon kekiği, vanilya tatlılığı, is, deri ve bitkisel notalar.  
-Damak; şeri fıçıların etkisiyle bolca kırmızı meyve, muskat, deniz/yosun t-rayihaları, meşe ve biber.  
+Damak; şeri fıçıların etkisiyle bolca kırmızı meyve, muskat, deniz/yosun rayihaları, meşe ve biber.  
 Bitiş; kısa-orta arası, karabiber ve narenciye.  
 
 Açık amber renginde, NAS, turba seviyesi yaklaşık 40 PPM, burbon ve oloroso şeri fıçılarda olgunlaşıyor, %46.3 abv ile şişeleniyor, renklendirici kullanılmıyor ve soğuk filtrasyon uygulanmıyor.  
