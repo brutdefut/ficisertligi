@@ -21,7 +21,7 @@ Damak; meşe, malt kuruluğu, is, ve biber.
 Bitiş; kısa ve dengesiz, baharatlı.  
 Kadehte bir kaç dakika geçirdikten sonra is ortadan kayboluyor ve viski daha yumuşak içilir hale geliyor.  
 
-Yeraltında depolarındaki burbon meşe fıçılarda yaklaşık 6-8 yıl arası olgunlaşıyor, %46 abv ile şişeleniyor, NAS, parlak altın renginde ve karamel kullanılmıyor, soğuk filtrasyon uygulanmıyor. Turba oranı bir çok kaynakta 25 ppm olarak belirtilmiş fakat burun ve damaktaki etkisinin çok daha az olduğunu düşünüyorum. Viskinin arpası Himalayalardan, kurutmak için kullanılan turba ise İskoçya'dan temin ediliyor.   
+Yeraltı depolarındaki burbon meşe fıçılarda yaklaşık 6-8 yıl arası olgunlaşıyor, %46 abv ile şişeleniyor, NAS, parlak altın renginde ve karamel kullanılmıyor, soğuk filtrasyon uygulanmıyor. Turba oranı bir çok kaynakta 25 ppm olarak belirtilmiş fakat burun ve damaktaki etkisinin çok daha az olduğunu düşünüyorum. Viskinin arpası Himalayalardan, kurutmak için kullanılan turba ise İskoçya'dan temin ediliyor.   
 
 Damıtımevi ilk single malt viskisini 2012 yılında, Michael D’Souza önderliğinde piyasaya sürdükten sonra, kısa zaman içerisinde dünyada popüler hale geldi. Bold ise, Paul John'un core range viskileri arasında, Nirvana'ya göre daha güçlü ve akılda kalıcı bir profile sahip.  
 
