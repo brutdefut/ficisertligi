@@ -39,7 +39,7 @@ Sağlığınıza.
 
 <p id="english"></p>
 
-Created by the Master Distiller, Jim Beveridge, Blue label is one of the most desirable and elite whiskies in the world. Unquestionably, aside from the taste and price, it is a prestige thing. And we love this blue bottle how the way it is.  
+Created by the Master Distiller, Jim Beveridge, Blue Label is one of the most desirable and elite whiskies in the world. Unquestionably, aside from the taste and the price, it is a prestige thing. And we love this blue bottle how the way it is.  
 
 Nose; honey, vanilla, heather, lemon pie, slightly smoky.  
 Palate; chocolate-covered plums, lots of spice and oak. Velvety feeling, medium-bodied but multi-layered, thanks to grain whiskies.  
@@ -53,11 +53,11 @@ Blue Label is a blend of malt and grain whiskies. 40% abv, NAS, chill-filtered a
 -International Wine & Spirit Competition 2022 gold, 2021 silver  
 -World Whiskies Awards 2021 gold  
 
-"An exquisite combination of Scotland’s rarest and most exceptional whiskies. Only one in every ten thousand casks has the elusive quality, character and flavor to deliver the remarkable signature taste" says John Walker & Sons for the blue label expression.  
+"An exquisite combination of Scotland’s rarest and most exceptional whiskies. Only one in every ten thousand casks has the elusive quality, character and flavor to deliver the remarkable signature taste" says John Walker & Sons for The Blue Label expression.  
 
-An overpriced whisky? It is open to question. In my opinion, Blue label is a very good blend. Don't skip the chance, if one of your friends offers you a sip.  
+An overpriced whisky? It is open to question. In my opinion, Blue Label is a very good blend. Don't skip the chance, if one of your friends offers you a sip.  
 
-P.S: A quote from my first tasting notes, "I have amazing flavors that you will be surprised by. come on, take another sip."   
+P.S: A quote from my first tasting notes, "I have amazing flavors by which you will be surprised. Come on, take another sip." said The Blue Label.   
 
 Cheers to all.    
       
