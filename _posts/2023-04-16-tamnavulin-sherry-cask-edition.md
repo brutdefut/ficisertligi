@@ -21,7 +21,7 @@ Damak; siyah incir, tatlı baharat ve portakal kabuğu.
 Bitiş; orta-uzun arası, meşe, baharat.  
 Kadehte geçen bir kaç dakika viskiyi daha keyifli hale getiriyor.  
 
-Amber renginde, karamel kullanılıyor, %40 ABV ile şişeleniyor ve soğuk filtrasyon uygulanmıyor. Amerikan meşe fıçılarda olgunlaştıktan sonra, bitiş verilmek üzere İspanyol Oloroso şeri fıçılara alınıyor.  
+Amber renginde, karamel kullanılıyor, NAS, %40 ABV ile şişeleniyor ve soğuk filtrasyon uygulanmıyor. Amerikan meşe fıçılarda olgunlaştıktan sonra, bitiş verilmek üzere İspanyol Oloroso şeri fıçılara alınıyor.  
 
 -International Spirits Challenge 2020 altın, Yaş Belirtilmeyen Malt Viski  
 -International Wine & Spirits Competition 2019 bronz  
@@ -46,7 +46,7 @@ Palate; dried black figs, sweet spice and orange peels.
 Finish; oaky, medium to long and peppery.  
 A few minutes in the glass makes this scotch more pleasant.  
 
-Amber gold in colour with caramel, non-chill-filtered, 40% ABV(a little more abv might be good), matured in American oak barrels and finished in three different Oloroso sherry casks.  
+Amber gold in colour with caramel, non-chill-filtered, NAS, 40% ABV (a little more abv might be good), matured in American oak barrels and finished in three different Oloroso sherry casks.  
 
 -International Spirits Challenge 2020 gold, Single Malt No Age Statement  
 -International Wine & Spirits Competition 2019 bronze  
