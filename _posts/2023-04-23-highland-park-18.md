@@ -29,7 +29,7 @@ Highland Park 18 şimdiye kadar gördüğüm en fazla ödül alan viskilerden bi
 -San Francisco World Spirits Competition 2018 gümüş, 2022 çift altın.    
 -The Ultimate Spirits Challenge 97 puan 2018, 97 puan 2019, 96 puan 2021.  
 
-Kendi yaş grubu dikkate alındığında, hem burun hem de damaktaki dengesi çok başarılı. Meşede geçen zaman viskiyi hiç yormamış; şeri fıçıların etkisi aşırı yoğun değil ve burbon fıçıların işini iyi yaptığı belli.    
+Kendi yaş grubu dikkate alındığında, hem burun hem de damaktaki dengesi çok başarılı. Meşede geçen zaman viskiyi hiç yormamış; Avrupa şeri fıçıların etkisi aşırı yoğun değil ve Amerikan fıçıların işini iyi yaptığı belli.    
 
 Genel olarak, Highland Park 18’in her viskiseverin mutlaka denemesi gereken ekspresyonlardan biri olduğunu düşünüyorum.   
 
@@ -59,7 +59,7 @@ Highland Park 18 is one of the most highly-awarded whiskies I’ve ever seen:
 -San Francisco World Spirits Competition 2018 silver, 2022 double gold    
 -The Ultimate Spirits Challenge 97 points in 2018, 97 points in 2019, 96 points in 2021  
 
-Highland Park is a very well-balanced scotch at this age scale; the oak influence is very good (not overwhelming), the sherry cask effect is steady and the bourbon barrel influence is decent.  
+Highland Park is a very well-balanced scotch at this age scale; the oak influence is very good (not overwhelming), the European sherry cask effect is steady and the American barrel influence is decent.  
 
 Overall, a must-have scotch for all whisky connoisseurs.      
 
