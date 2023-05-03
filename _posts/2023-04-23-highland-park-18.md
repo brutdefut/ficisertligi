@@ -46,7 +46,7 @@ Sağlığınıza.
 
 From the sharp and windy cliffs of Orkney Islands, here comes a fan favorite, sturdy Highland Park 18 years old.  
 
-Nose; honey, vanilla, juniper, heathery peat smoke.  	
+Nose; honey, vanilla, juniper, heathery peat smoke.  
 Palate; dried red fruits, caramel, cinnamon, oaky and slightly grassy.  
 Finish; deliciously long, spicy and briny.  
 
