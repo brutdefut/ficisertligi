@@ -2,7 +2,7 @@
 layout: post
 title:  " HIGHLAND PARK 18 VIKING PRIDE "
 author: brutdefut
-categories: [ islay-peated-smoky ]
+categories: [ islands-peated-smoky ]
 image: "assets/images/highland-park-18/highland-park-18.JPG"
 rating: 4
 richness: 7
