@@ -2,7 +2,7 @@
 layout: post
 title:  "LAGAVULIN DISTILLERS EDITION"
 author: brutdefut
-categories: [ islay-peated-smoky ]
+categories: [ islands-peated-smoky ]
 image: "assets/images/lagavulin-distillers-edition/lagavulin-distillers-edition.jpg"
 rating: 5
 richness: 8
