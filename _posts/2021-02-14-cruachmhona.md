@@ -2,7 +2,7 @@
 layout: post
 title:  "BUNNAHABHAIN CRUACH-MHONA"
 author: brutdefut
-categories: [ islay-peated-smoky ]
+categories: [ islands-peated-smoky ]
 image: "assets/images/cruachmhona-2/cruachmhona-2.jpg"
 rating: 4.5
 richness: 7
