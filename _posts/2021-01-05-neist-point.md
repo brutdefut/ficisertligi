@@ -2,7 +2,7 @@
 layout: post
 title:  "TALISKER NEIST POINT"
 author: brutdefut
-categories: [ islay-peated-smoky ]
+categories: [ islands-peated-smoky ]
 image: assets/images/neistpoint-2/neistpoint-2.jpg
 rating: 3.5
 richness: 7
