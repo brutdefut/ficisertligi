@@ -2,7 +2,7 @@
 layout: post
 title:  "LAPHROAIG FOUR OAK"
 author: brutdefut
-categories: [ islay-peated-smoky ]
+categories: [ islands-peated-smoky ]
 image: "assets/images/laphroaig-four-oak/laphroaig-four-oak.jpeg"
 rating: 2.5
 richness: 5
