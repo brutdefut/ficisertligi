@@ -2,7 +2,7 @@
 layout: post
 title:  "KILCHOMAN SANAIG"
 author: brutdefut
-categories: [ islay-peated-smoky ]
+categories: [ islands-peated-smoky ]
 image: "assets/images/kilchoman-sanaig/kilchoman-sanaig.JPG"
 rating: 4.5
 richness: 8
