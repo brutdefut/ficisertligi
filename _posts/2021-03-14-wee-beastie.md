@@ -2,7 +2,7 @@
 layout: post
 title:  "ARDBEG 5 WEE BEASTIE"
 author: brutdefut
-categories: [ islay-peated-smoky ]
+categories: [ islands-peated-smoky ]
 image: "assets/images/wee-beastie/wee-beastie.jpg"
 rating: 4
 richness: 5
