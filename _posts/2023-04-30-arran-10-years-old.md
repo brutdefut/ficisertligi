@@ -2,7 +2,7 @@
 layout: post
 title:  " ARRAN 10 YEARS OLD "
 author: brutdefut
-categories: [ islay-peated-smoky ]
+categories: [ islands-peated-smoky ]
 image: "assets/images/arran-ten-years-old/arran-ten-years-old.JPG"
 rating: 4
 richness: 7
