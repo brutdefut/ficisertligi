@@ -2,7 +2,7 @@
 layout: post
 title:  " BUNNAHABHAIN TOITEACH A DHÀ "
 author: brutdefut
-categories: [ islay-peated-smoky ]
+categories: [ islands-peated-smoky ]
 image: "assets/images/bunnahabhain-toiteach-a-dha/bunnahabhain-toiteach-a-dha.JPG"
 rating: 4
 richness: 7
