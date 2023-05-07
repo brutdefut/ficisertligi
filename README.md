@@ -9,7 +9,7 @@
 - bourbons
 - cask-strength
 - highland
-- islay-peated-smoky
+- islands-peated-smoky
 - japan-asia
 - lowland-irish
 - speyside
