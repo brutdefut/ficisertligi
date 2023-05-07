@@ -2,7 +2,7 @@
 layout: post
 title:  "ARDBEG UIGEADAIL"
 author: brutdefut
-categories: [ islay-peated-smoky, cask-strength ]
+categories: [ islands-peated-smoky, cask-strength ]
 image: assets/images/uigeadail-2/uigeadail-2.jpg
 rating: 4.5
 richness: 8
