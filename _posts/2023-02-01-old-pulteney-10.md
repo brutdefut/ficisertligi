@@ -2,7 +2,7 @@
 layout: post
 title:  "OLD PULTENEY 10"
 author: brutdefut
-categories: [ islay-peated-smoky, highland ]
+categories: [ islands-peated-smoky, highland ]
 image: "assets/images/old-pulteney-10/old-pulteney-10.JPG"
 rating: 3
 richness: 5
