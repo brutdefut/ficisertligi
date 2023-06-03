@@ -26,7 +26,7 @@ Genel olarak, viski genç bir profile sahip ve damakta sert. Yüksek alkol oran�
 -World Whiskies Awards 2020 altın  
 -The Spirits Business 2021 altın  
 -The IWSC 2022 94 puan   
--Internatinal Spirits Challenge 2020, 2022 altın    
+-International Spirits Challenge 2020, 2022 altın    
 
 Bir kaç sene önce piyasaya sürülmesine ve limitli olmasına rağmen, bolca şerilenmiş bu genç ve ilginç viskiye duty-free raflarında halen denk gelebilirsiniz. Etikette Islay adını görürseniz kafanız karışmasın. Evet, Bunnahabhain An Cladach bir Islay adası ürünü ama isli değil. Viski içerken sürprizlere açıksanız denemekten çekinmeyin.  
  
