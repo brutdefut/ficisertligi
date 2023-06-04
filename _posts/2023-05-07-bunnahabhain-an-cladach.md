@@ -52,7 +52,7 @@ In general, the whisky feels young and a bit harsh on the palate. I added some w
 -World Whiskies Awards 2020 gold  
 -The Spirits Business 2021 gold  
 -The IWSC 2022 94 points   
--Internatinal Spirits Challenge 2020, 2022 gold  
+-International Spirits Challenge 2020, 2022 gold  
 
 You can still find this young, sherried and limited Islay scotch on some duty-free shelves. If you are open for surprises while drinking your whisky, an interesting one to try. Yes, An Cladach is an Islay whisky but remember this, it is not peated.  
 
