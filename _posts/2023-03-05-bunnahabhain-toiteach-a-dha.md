@@ -22,11 +22,11 @@ Bitiş; kısa-orta arası, karabiber ve narenciye.
 
 Açık amber renginde, NAS, turba seviyesi yaklaşık 40 PPM, burbon ve oloroso şeri fıçılarda olgunlaşıyor, %46.3 abv ile şişeleniyor, renklendirici kullanılmıyor ve soğuk filtrasyon uygulanmıyor.  
 
-Toiteach A Dhà ülkemizde az bilinmesine karşın yurtdışında çokça ödül kazanmış;  
--The World Whiskies Awards 2020 altın, 2021 gümüş.
--The Spirits Business, 2018 altın, 2021 gümüş.    
--The International Spirits Challenge 2020 altın, 2022 gümüş.  
--The IWSC 2020 95 puan.   
+Toiteach A Dhà ülkemizde az bilinmesine karşın, yurtdışında çokça ödül kazanmış;  
+-World Whiskies Awards 2020 altın, 2021 gümüş.  
+-The Spirits Business 2018 altın, 2021 gümüş.    
+-International Spirits Challenge 2020 altın, 2022 gümüş.  
+-IWSC 2020 95 puan.   
 -Singapore World Spirits Competition 2019 çift altın.   
 
 Genel olarak, gençliğine rağmen sert köşeleri olmayan, lezzetli ve kaliteli bir viski. Single malt viskilerde farklı tarzları denemeyi sevenler ve fiyat/performansa önem verenler için biçilmiş kaftan.  
