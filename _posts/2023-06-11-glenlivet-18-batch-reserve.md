@@ -10,7 +10,7 @@ body: 5
 sweetness: 8
 smoke_peat: 0
 preview-tr: Glenlivet Damıtımevi'nin, güncellenen ve tasarımı yenilenenen 18 yıllık ekspresyonu.                 
-preview-en: Updated and newly designed 18-year-old expression of Glenlivet.          
+preview-en: Updated and newly designed 18-year-old expression from The Glenlivet.          
      
 ---
 
