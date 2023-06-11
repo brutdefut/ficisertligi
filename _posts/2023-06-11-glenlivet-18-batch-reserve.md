@@ -59,7 +59,7 @@ Vintage gold-like but caramel coloured with 40% ABV., chill-filtered, 18-year-ol
 
 In the list above, it has won many awards, primarily in the 'Sherried Speyside' category. However, most of these awards are for the previous expression with higher (43% ABV) alcohol content. Glenlivet 18 must be considered a classic Speyside Scotch because it can easily be said that it can’t come close to a well-sherried whisky.  
 
-"Glenlivet 18, in my mind, stands as one of those whiskies that are not as mature as its age suggests and leaves a sense of disappointment.” This is a note I took in June 2020, and my opinion hasn't changed a bit.  
+"Glenlivet 18, in my mind, stands as one of those whiskies that are not as mature as its age suggests, which leaves a sense of disappointment.” This is a note I took in June 2020, and my opinion hasn't changed a bit.  
 The whisky has a low price/performance ratio and wouldn't be my first choice among its competitors. However, during hot summer days, it can provide enjoyment with a large ice cube or chilling stones."  
  
 P.S:  
