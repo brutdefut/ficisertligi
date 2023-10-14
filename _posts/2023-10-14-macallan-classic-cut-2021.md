@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "  MACALLAN CLASSIC CUT 2021 "
+title:  "  THE MACALLAN CLASSIC CUT 2021 "
 author: brutdefut
 categories: [ speyside, highland ]
 image: "assets/images/macallan-classic-cut-2021/macallan-classic-cut-2021.JPG"
