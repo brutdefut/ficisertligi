@@ -5,8 +5,8 @@ author: brutdefut
 categories: [ blended ]
 image: "assets/images/chivas-regal-12/chivas-regal-12.JPG"
 rating: 2.5
-richness: 5
-body: 3
+richness: 4
+body: 4
 sweetness: 8
 smoke_peat: 1
 preview-tr: Chivas Regal 12, viski dünyasındaki en popüler harman viskilerinden biri.                         
