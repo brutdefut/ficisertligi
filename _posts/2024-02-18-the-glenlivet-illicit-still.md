@@ -20,13 +20,13 @@ Burun: Bahar çiçekleri, bal ve vanilya çubukları.
 Damak: Karamel, taze avokado, ekşi mayalı kek; şeker kavanozu ve yine vanilya.    
 Bitiş: Uzun, tatlı baharatlarla sıcak ve yoğun.  
 
-Limitli üretim, parlak altın renginde ve karamel kullanılıyor, 12 yıllık, soğuk filtrasyon uygulmadan %48 alkol hacminde şişeleniyor. Illicit Still, Avrupa ve Amerikan meşe fıçılarda olgunlaşan en genci 12 yıllık viskilerden oluşuyor. (Jim Murray 79.5 puan)    
+Limitli üretim, parlak altın renginde ve karamel kullanılıyor, 12 yıllık, soğuk filtrasyon uygulanmadan %48 alkol hacminde şişeleniyor. Illicit Still, Avrupa ve Amerikan meşe fıçılarda olgunlaşan ve en genci 12 yaşında olan viskilerden oluşuyor. (Jim Murray 79.5 puan)    
 
 Illicit Still, güçlü Speyside viskilerinin lezzetli bir örneği. Ancak bu aslına uygun bir yeniden üretim mi? Hayır, öyle olmadığını düşünüyorum. Çünkü o dönemlerde tüm Speyside viskileri hafif isli bir profile sahipti. Illicit Still ise, eskiye öykünen bir viskinin modern yorumuna daha yakın.   
 
 Dip Not:   
 1. Illicit Still basit anlamıyla, kaçak üretilen, ruhsatsız viskiler için kullanılan bir tabir.   
-2. Şişenin üstündeki etiket tasarımı, markanın arşivlenmiş en eski şişesinden ilham alıyor ve 19. yüzyılda viski üretiminde kullanılan imbikleri anımsatan bakırı hatırlatan desenler içeriyor.   
+2. Şişenin üstündeki etiket tasarımı, markanın arşivlenmiş en eski şişesinden ilham alıyor ve 19. yüzyılda viski üretiminde kullanılan imbikleri anımsatan bakır desenler içeriyor.   
 3. Kral George IV dahi, 1822'deki Edinburgh ziyareti sırasında, o dönem henüz içki ruhsatına sahip olmayan ve kaçak üretilen Glenlivet viskisini talep etmiştir.   
 
 Sağlığınıza.   
