@@ -29,7 +29,7 @@ Glenfarclas'tan beklendiği üzere bol ödüllü;
 -Wine Enthusiast 93 puan.  
 -International Spirits Challenge 2015 bronz, 2019 ve 2020 gümüş.   
 -Malt Maniacs Awards 2013 bronz.  
--San Francisco World Spirits Competition 2016 gold ve 2019 gümüş.   
+-San Francisco World Spirits Competition 2016 altın ve 2019 gümüş.   
 -International Wine & Spirit Competition 2010 gümüş.  
 
 Günümüzde pek çok damıtımevi, verimli ve uzun ömürlü oldukları için buharla çalışan imbikleri tercih ediyorlar. Glenfarclas Damıtımevi ise, viskilerinin aroma profilini korumak adına, eski usule sadık kalarak, doğrudan ısıya maruz bırakılan bakır imbikleri kullanmakta ısrarcı. Nihayetinde, yine Grant’lerden beklenildiği gibi, geleneksel yöntemlerle ve sabırla üretilen Glenfarclas 17; mükemmel dengelenmiş, çok katmanlı ve klas bir viski olarak karşımıza çıkıyor.  
