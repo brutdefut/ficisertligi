@@ -29,7 +29,7 @@ From The Barrel, 100’den fazla farklı sürümden çıkan viskilerin harmanı.
 -Malt Maniacs Awards 2013 bronz.  
 -Whisky Advocate 2018, birincilik ödülü.  
 
-Nikka From The Barrel, abartı ve yoğun ilgi sebebiyle iyiden iyiye uçuşa geçen Japon viski pazarındaki en doğru fiyat/performans oranına sahip. Koleksiyoncular tarafından tercih edilmeyecektir ama viski meraklılarının favorilerinden olduğu kesin.  
+Nikka From The Barrel, abartı ve yoğun ilgi sebebiyle iyiden iyiye uçuşa geçen Japon pazarındaki en doğru fiyat/performans oranına sahip viski. Koleksiyoncular tarafından tercih edilmeyecektir ama viski meraklılarının favorilerinden olduğu kesin.  
 
 P.S:   
 1. From The Barrel’ın ikonik kare şişesi, “küçük bir blok viski” konseptini yansıtıyor ve içindeki yoğun ve zengin lezzetlere atıfta bulunuyor. (resmi web sitesinden alıntı)  
