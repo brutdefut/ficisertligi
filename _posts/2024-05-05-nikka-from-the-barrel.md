@@ -9,8 +9,8 @@ richness: 7
 body: 7
 sweetness: 6
 smoke_peat: 5
-preview-tr: Artık üretilmeyen nadide bir Japon güzeli, Nikka Pure Malt Black.                        
-preview-en: An amazing and discontinued blended malt whisky from Japan, Nikka Pure Malt Black.
+preview-tr: Nikka From The Barrel, popüler Damıtımevi Nikka'nın amiral gemisi ekspresyonu.                          
+preview-en: Nikka From The Barrel is a "Not for the collectors, but for the enthusiast’s" kind of whisky.  
                  
 ---
 
