@@ -26,7 +26,7 @@ Royal Brackla 16, pembe altın renginde ama renklendirici olarak karamel kullan�
 Ödüller;  
 -San Francisco World Spirits Competition 2019 altın, 2020 gümüş.   
 -Whisky Advocate 88 puan.  
--International Spirits Challenge 2017 gümüş, 1018 bronz, 2019 ve 2020 altın.      
+-International Spirits Challenge 2017 gümüş, 2018 bronz, 2019 ve 2020 altın.      
 -The IWSC 2017 gümüş, 2019 altın.  
 -The CWSA 2018 çift altın, 2019 gümüş.     
 -Jim Murray’s Whisky Bible 2020, North American Edition 88 puan.  
@@ -57,7 +57,7 @@ Royal Brackla 16 is matured and finished in first-fill ex-oloroso sherry casks, 
 Multi-awarded;  
 -San Francisco World Spirits Competition 2019 gold, 2020 silver.   
 -Whisky Advocate 88 points.  
--International Spirits Challenge 2017 silver, 1018 bronze, 2019 and 2020 gold.      
+-International Spirits Challenge 2017 silver, 2018 bronze, 2019 and 2020 gold.      
 -The IWSC 2017 silver, 2019 gold.   
 -The CWSA 2018 double gold, 2019 silver.     
 -Jim Murray’s Whisky Bible 2020, North American Edition 88 points.  
