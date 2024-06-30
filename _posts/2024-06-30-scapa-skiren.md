@@ -29,8 +29,8 @@ Viski parlak altın sarısı renginde ama renklendirici olarak karamel kullanıl
 -International Spirits Challenge 2017 altın.   
 -Ultimate Spirits Challenge 2016 90 puan.    
 
-Scapa Skiren tam bir ada viskisi. Damıtımevi’nin kapasitesi, yıllık yaklaşık 1 milyon litre ile, oldukça düşük. Ürün yelpazesi sadece iki şişelemeden oluşuyor. (Diğer ekspresyonun adı Glansa) Her iki viski de düşük sayılarda piyasaya sürülüyor.  
-Fiyat/Performans oranı düşük fakat genel olarak bakıldığında Skiren kaliteli bir viski. Fiyatı bir kenara bırakırsak, az bilinirliği ve kendine has tarzı nedeniyle, Scapa damıtımevinden çıkan herhangi bir ekspresyonu hiç düşünmeden alırım.  
+Scapa Skiren tam bir ada viskisi. Damıtımevi’nin kapasitesi, yıllık yaklaşık 1 milyon litre ile, oldukça düşük. Ürün yelpazesi sadece iki şişelemeden oluşuyor. (Diğer ekspresyonun adı Glansa) Her iki viski de piyasaya az sayıda sürülüyorlar.  
+Fiyat/Performans oranı zayıf fakat genel olarak bakıldığında Skiren kaliteli bir malt. Etiketi bir kenara bırakırsak, az bilinirliği ve kendine has tarzı nedeniyle, Scapa damıtımevinden çıkan herhangi bir ekspresyonu hiç düşünmeden alırım.  
 
 P.S:   
 1. Skiren, İskandinav kökenli bir isim ve açık, parıldayan gökyüzü anlamına geliyor. (damıtımevinden alıntı)  
