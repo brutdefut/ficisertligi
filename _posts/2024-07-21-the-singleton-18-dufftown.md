@@ -9,8 +9,8 @@ richness: 7
 body: 7
 sweetness: 7
 smoke_peat: 1
-preview-tr: Cardhu 12, göz alıcı şişe tasarımı ile, halen piyasadaki en ulaşılabilir single maltlardan.                          
-preview-en: Cardhu 12 is a perfect summer whisky and a part of Diageo's classic malt series.  
+preview-tr: Singleton 18, güçlü ve dengeli yapısıyla, uygun fiyatlı Speyside single malt viskilerden.                          
+preview-en: Singleton 18 is a value-for-money single malt with its robust and well-balanced Speyside style.  
                  
 ---
 
