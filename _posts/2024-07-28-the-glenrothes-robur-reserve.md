@@ -58,7 +58,7 @@ Awards;
 -International Spirits Challenge 2009 gold, 2013 silver.       
 -The IWSC 2012 silver, 2015 gold.   
 
-The Glenrothes Distillery produces creative whiskies. They are simply not boring. Even though Robur Reserve is young it is still above a certain standard, like the brand's 10 and 12-year-old bottlings. Of course, it could be more flawless but a well-balanced and elegant whisky. 
+The Glenrothes Distillery produces creative whiskies. They are simply not boring. Even though Robur Reserve is young, it is still above a certain standard, like the brand's 10 and 12-year-old bottlings. Of course, it could be more flawless but it is a well-balanced and elegant whisky. 
 We first saw Robur Reserve years ago in Cyprus. Over the years, we've had the opportunity to finish a few bottles with close friends. If you come across it, you can buy one without hesitation.   
 
 P.S:  
