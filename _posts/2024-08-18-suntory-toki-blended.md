@@ -14,7 +14,7 @@ preview-en: Suntory Toki offers a young, light and versatile profile.
                  
 ---
 
-1899'da Shinjiro Torii tarafından kurulan Suntory, Japon viski dünyasının önde gelen damıtımevlerinden. Baş Harmancı Shinji Fukuyo'nun uzmanlığıyla hazırlanana Toki ekspresyonu ise, iyiden iyiye alıp başını giden Japon viskileri içinde bütçe dostu seçeneklerden biri olarak öne çıkıyor.   
+1899'da Shinjiro Torii tarafından temelleri atılan Suntory, Japon viski dünyasının önde gelen damıtımevlerinden. Baş Harmancı Shinji Fukuyo'nun uzmanlığıyla hazırlanana Toki ekspresyonu ise, iyiden iyiye alıp başını giden Japon viskileri içinde bütçe dostu seçeneklerden biri olarak öne çıkıyor.   
 
 Burun; portakal kabuğu, bal.  
 Damak; bitkisel notalar, taze yeşil elma, hafif ve baharatlı.  
