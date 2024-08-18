@@ -39,7 +39,7 @@ Sağlığınıza.
 
 <p id="english"></p>
 
-Established in 1899 by Shinjiro Torii, Suntory is one of the flagship distilleries of the Japanese whisky world. Their bottling Toki is a budget-friendly option in the notoriously expensive Japanese market, crafted under the expertise of Chief Blender, Shinji Fukuyo.  
+Founded in 1899 by Shinjiro Torii, Suntory is one of the flagship distilleries of the Japanese whisky world. Their bottling Toki is a budget-friendly option in the notoriously expensive Japanese market, crafted under the expertise of Chief Blender, Shinji Fukuyo.  
 
 Nose; orange peels, honey.  
 Palate; herbal, fresh green apples, light and spicy.  
