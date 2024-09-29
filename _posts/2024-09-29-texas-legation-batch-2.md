@@ -26,7 +26,7 @@ Texas Legation Batch 2, yerel çiftliklerden elde edilen GDO’suz mısırlar (h
 Ironroot Republic (Kuruluş 2014) ilginç bir Teksas damıtımevi. Aynı zamanda konyak, brendi ve cin üretiyorlar ve Fransız damıtma tekniklerini işlerine uyarlamayı seviyorlar. Berry Bros. & Rudd'u zaten hepimizin malumu. Texas Legation adı ise, Meksika’ya karşı bağımsızlığını ilan eden Teksas Cumhuriyeti’ni, komşularından kaynaklanabilecek tehditlere istinaden korumak amacıyla, bağımsız Teksas ile Londra arasında imzalanan diplomatik bir anlaşmadan (1842-1845) geliyor. Bu nedenle iki kurum arasındaki bu tarihi bağ ve işbirliği, Likarish Kardeşler ve Doug McIvor sayesinde harika bir burbonla sonuçlanmış durumda.        
 
 P.S:  
-1. Élevage terimi Fransızca'da "yetiştirme" veya "büyütme" anlamına gelir ve fermantasyondan sonra ancak şişelemeden önce sıvının en iyi kalitesine ulaşması için şarap yapımcısının veya damıtıcının gösterdiği özeni yansıtır.
+1. Élevage, Fransızca'da yetiştirme, büyütme demek ve fermantasyondan sonra ancak şişelemeden önce, içkinin en iyi haline ulaşması için üreticinin gösterdiği özeni ifade etmek için kullanılan bir terim.  
 
 Sağlığınıza.   
    
