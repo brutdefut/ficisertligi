@@ -1,5 +1,9 @@
 # ficisertligi.com - Change Log
 
+## 2021-02-08, v4.5.0
+### Added
+- new category, `Independent`
+
 ## 2021-02-08, v4.4.1
 ### Changed
 - prism js and css updated to 1.23.0
