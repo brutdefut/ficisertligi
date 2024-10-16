@@ -13,6 +13,7 @@
 - japan-asia
 - lowland-irish
 - speyside
+- independent
 
 ## How to run
 - `bundle exec jekyll server`
@@ -37,5 +38,19 @@
     - update those lines with what google font offers under `CSS rules to specify families` section
 
 ![Google Fonts guide](assets/images/readme/google-fonts-guide.png "Google Fonts guide")
+
+### How to add a new category
+- In the file `_layouts/default.html`, there is a code line for listing categories
+    - `<li><a href="{{ site.baseurl }}/categories">Categories</a>`
+- Under the categories line, there is a list of categories. You can copy paste of on the line and add yours like;
+    - `<li class="sub"><a href="{{ site.baseurl }}/new-category">New Category</a></li>`
+    - in the a tag's href section, `new-category` is the url suffix for the category, no uppercase or space should be used, hyphen to separate words. `New Category` wording is the title, will be visible on the website.
+- Now, you need to create the `new-category.html` page on the root folder. To do that, copy and paste one of the existing category file like `highland.html`.
+    - Rename the copy-paste file with the `new-category.html`
+    - Within the `new-category.html` file;
+        - update line 2: title to new title what you want. Try to stick to the same wording for less confusion for end users.
+        - update line 3: permalink to what you want. Try to stick to the same wording for less confusion for end users.
+        - update line 8: Span value to correct title, Capital first letters.
+        - update line 14: `{% for post in site.categories.highland %}` to `{% for post in site.categories.new-category %}`
 
 
