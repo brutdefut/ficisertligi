@@ -32,7 +32,7 @@ Sağlığınıza.
 
 <p id="english"></p>
 
-Haider Whisky Distillery, founded by Johann Haider in 1995 and now managed by his daughter Jasmin Haider-Stadler, is Austria's first whisky distillery, highlights the artistry of Austrian rye whisky-making with J.H. Waldviertler Rye Malt 15. The whisky is a limited edition, bottled exclusively for Theehandlung Schönbichler in Vienna, with only 220 bottles available.  
+Haider Distillery, founded by Johann Haider in 1995 and now managed by his daughter Jasmin Haider-Stadler, is Austria's first whisky distillery, highlights the artistry of Austrian rye whisky-making with J.H. Waldviertler Rye Malt 15. The whisky is a limited edition, bottled exclusively for Theehandlung Schönbichler in Vienna, with only 220 bottles available.  
 
 Nose; honey, creme de menthe, glue.   
 Palate; apples, fresh-cut grass, herbal notes, white pepper and cinnamon.     
