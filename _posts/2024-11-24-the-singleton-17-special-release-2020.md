@@ -22,7 +22,7 @@ Bitiş; orta uzunlukta ve kuru, meşe, tarçın.
 Kadehte bir kaç dakika geçirdikten sonra ya da bir iki damla su ilavesi ile viski açılıyor ve meyve aromaları öne çıkmaya başlıyor.    
 
 Singleton 17, “Rare By Nature” serisinin bir üyesi. Bu koleksiyondaki viskiler genellikle içinde şarap veya farklı içkiler bulunmuş ya da yeniden doldurulmuş meşe fıçılarda uzun süre bekletilerek, Diageo’nun standart ekspresyonlarına göre daha ayırt edici ve yenilikçi olgunlaştırma süreçlerine maruz bırakılıyorlar. 
-Viski, 2002 yılında damıtıldıktan sonraki 17 yılı yeniden dolum Amerikan büyük meşe fıçılarda (hogshead) geçirmiş. Soluk sarı renginde ve renklendirici kullanılmamış. Soğuk filtrasyon uygulanmadan, %55.1 ABV ile şişelenmiş.    
+2002 yılında damıtılan Singleton 17, sonraki yıllarının tamamını yeniden dolum Amerikan büyük meşe fıçılarda (hogshead) geçirmiş. Soluk sarı renginde ve renklendirici kullanılmamış. Soğuk filtrasyon uygulanmadan, %55.1 ABV ile şişelenmiş.    
 
 Singleton 17 ilginç bir viski. Bazı noktalarda çok sıradan kalıyor, farklı açılardan ise üst sınıf hissiyatı uyandırıyor. Bir iki yıl önce ya da bir kaç sene sonra şişelense belki kusursuz olabilirmiş. Yine de, yüksek fiyat etiketine rağmen, fıçı sertliği olması nedeniyle keyif veren ve benden iyi not alan İskoçlardan.  
 
