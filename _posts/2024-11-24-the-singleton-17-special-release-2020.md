@@ -8,7 +8,7 @@ rating: 4
 richness: 6
 body: 7
 sweetness: 8
-smoke_peat: 1
+smoke_peat: 0
 preview-tr: Singleton 17, limitli olarak piyasaya sürülen ve 2020 "Rare By Nature" koleksiyonuna ait ekspresyon.                          
 preview-en: The Singleton 17 is a special release and a part of Diageo's "Rare By Nature" Collection.  
                  
