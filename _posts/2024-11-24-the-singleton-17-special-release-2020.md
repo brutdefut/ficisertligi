@@ -9,8 +9,8 @@ richness: 6
 body: 7
 sweetness: 8
 smoke_peat: 1
-preview-tr: Robur Reserve, nispeten genç yaşına rağmen, lezzetli ve zarif bir profile sahip.                          
-preview-en: Robur Reserve is a young Speysider which offers an elegant and zesty feeling.  
+preview-tr: Singleton 17, limitli olarak piyasaya sürülen ve 2020 "Rare By Nature" koleksiyonuna ait ekspresyon.                          
+preview-en: The Singleton 17 is a special release and a part of Diageo's "Rare By Nature" Collection.  
                  
 ---
 
