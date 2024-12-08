@@ -14,14 +14,14 @@ preview-en: Glen Garioch 2011 is a delightful example of the Càrn Mòr's versat
                  
 ---
 
-Glen Garioch 2011, bağımsız şişeleyicilerden Càrn Mòrr’un (Morrison Scotch Whisky Distillers), “Strictly Limited” serisinin özel üyelerinden biri.   
+Glen Garioch 2011, bağımsız şişeleyicilerden Càrn Mòr’un (Morrison Scotch Whisky Distillers), “Strictly Limited” serisinin özel üyelerinden biri.   
 
 Burun; panettone, muskat, kırmızı üzüm.  
 Damak; karamel, ceviz, üzümlü draje, tarçın, tatlı baharat.  
 Bitiş; sıcak ve akılda kalıcı, meşe, fındık, biber.  
 Su eklemeye ihtiyaç duymayan bir viski.  
 
-Dokuz yaşındaki Glen Garioch şeri fıçılarda olgunlaşmış. Viski 2011’te distile edildikten sonra 2021 yılında, renklendirici kullanılmadan ve soğuk filtrasyon uygulanmadan, amber renginde, %47.5 ABV ile şişelenmiş.  
+Dokuz yaşındaki Glen Garioch şeri fıçılarda olgunlaşmış. Viski 2011’de distile edildikten sonra 2021 yılında, renklendirici kullanılmadan ve soğuk filtrasyon uygulanmadan, amber renginde, %47.5 ABV ile şişelenmiş.  
 
 Càrn Mòr Glen Garioch 2011’in aroma profili üst düzey ve çok dengeli. Viski o kadar doğru zamanda şişeye girmiş ki, gerçekten tek bir gün daha fazladan olgunlaşmasına gerek yokmuş.  
 
