@@ -6,7 +6,7 @@ categories: [ islands-peated-smoky, cask-strength ]
 image: "assets/images/talisker-8-special-release-2021/talisker-8-special-release-2021.JPG"
 rating: 4.5
 richness: 7
-body: 7
+body: 8
 sweetness: 4
 smoke_peat: 8
 preview-tr: Talisker 8, sizi doğrudan Skye Adası kıyılarına götüren vahşi bir viski.                 
