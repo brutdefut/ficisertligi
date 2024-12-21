@@ -23,7 +23,7 @@ Viskinin kendine gelmesi için bir süre havalanması ya da bir kaç damla su ek
 
 Clynelish 12, yeniden dolum Amerikan meşe fıçılarda olgunlaştıktan sonra Pedro Ximenez ve Oloroso şeri fıçılarda bitiş verilmiş. Viski, 2010’da distile edildikten sonra 2022 yılında, renklendirici kullanılmadan ve soğuk filtrasyon uygulanmadan, parlak altın renginde, %58.5 ABV ile fıçı sertliğinde şişelenmiş.  
 
-Viski, yüksek alkol oranı sayesinde güçlü bir profile sahip. İlk başta büyük yudum almaktan kaçınmanız gerek; bunun yerine, tadını çıkararak yavaşça için. Clynelish 12’nin potansiyelini açığa çıkarmak için biraz sabırlı olmak, su ve hava ile ufak dokunuşlar yapmak önemli.
+Viski, yüksek alkol oranı sayesinde güçlü bir profile sahip. İlk başta büyük yudum almaktan kaçınmanız gerek; bunun yerine, tadını çıkararak yavaşça için. Clynelish 12’nin potansiyelini açığa çıkarmak için biraz sabırlı olmak, su ve hava ile ufak dokunuşlar yapmak önemli.  
 Clynelish, şimdiye kadar hep daha popüler olanların gölgesinde kalmış damıtımevlerinden. Eğer henüz kendileriyle tanışma şansınız olmadıysa, az sayıda viskiden mütevellit yelpazesini ilk fırsatta keşfetmenizi tavsiye ederim.  
 
 P.S:   
