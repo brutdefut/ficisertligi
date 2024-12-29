@@ -5,7 +5,7 @@ author: brutdefut
 categories: [ speyside ]
 image: "assets/images/cardhu-gold-reserve/cardhu-gold-reserve.JPG"
 rating: 3
-richness: 6
+richness: 5
 body: 5
 sweetness: 7
 smoke_peat: 1
