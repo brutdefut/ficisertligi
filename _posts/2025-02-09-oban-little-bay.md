@@ -21,7 +21,7 @@ Damak; bal, deniz tuzu, karabiber, kayısı reçeli, bitkisel notalar, dengeli v
 Bitiş; uzun, sıcak ve yağlı, meşe, tatlı baharat.    
 Bir kaç damla su ekledikten sonra viskideki meyve aromaları öne çıkıyor.     
 
-Oban Little Bay, şeri ve burbon meşe fıçıların kombinasyonu ile olgunlaştırılmış viskilerin, daha sonra damıtımevinin en küçük (200 litre) burbon meşe fıçılarında birleştirilmesi neticesinde ortaya çıkıyor. Viski sıcak amber renginde fakat karamel kullanılıyor. %43 ABV ile soğuk filtrasyon uygulanmadan piyasaya sürülüyor.  
+Oban Little Bay, şeri ve burbon meşe fıçıların kombinasyonu ile olgunlaştırılmış viskilerin, daha sonra damıtımevinin en küçük (200 litre) burbon meşe fıçılarında birleştirilmesi neticesinde ortaya çıkıyor. Viski sıcak amber renginde fakat karamel kullanılıyor. %43 ABV ile soğuk filtrasyon uygulanarak piyasaya sürülüyor.  
 
 Ödüller:      
 -San Francisco World Spirits Competition 2016 çift altın, 2018-2022 gümüş.  
@@ -43,10 +43,10 @@ Oban ranks as the second smallest among approximately fifty manufacturers in Dia
 
 Nose; vanilla, citrus, grass, mint.   
 Palate; honey, sea salt, black pepper, apricot jam, herbal and full-bodied.     
-Finish; long, warm, oak, sweet spice and oily.     
+Finish; long, warm, oak, sweet, spicy and oily.     
 After a few drops of water, the whisky gets fruitier.      
 
-Oban Little Bay has been matured in a combination of sherry casks, ex-bourbon hogsheads, and ex-bourbon refill casks, then in the distillery’s smallest casks, 200-litre ex-bourbon barrels. The whisky is bottled at 43 % ABV, warm amber in colour, NAS (No age stated), non-chill-filtered and caramel-coloured.      
+Oban Little Bay has been matured in a combination of sherry casks, ex-bourbon hogsheads, and ex-bourbon refill casks, then in the distillery’s smallest casks, 200-litre ex-bourbon barrels. The whisky is bottled at 43 % ABV, warm amber in colour, NAS (No age stated), chill-filtered and caramel-coloured.      
 
 Awards:   
 -San Francisco World Spirits Competition 2016 double gold, 2018-2022 silver.  
