@@ -14,7 +14,7 @@ preview-en: Nectar D’Or is a sweet Glenmorangie experience, thanks to its whit
      
 ---
 
-1700'lerde bir çiftlik bira fabrikası olarak kurulan Morangie Brewery, 1840'ların başında damıtımevine dönüştü ve 1843 yılında William Matheson tarafından resmi olarak Glenmorangie adıyla kuruldu. İlk olarak 2007 yılında piyasaya sürülen Nectar d’Or ise, halen Glenmorangie ailesinin en eski üyelerinden biri.  
+1700'lerde bir çiftlik bira fabrikası olarak kurulan Morangie Brewery, 1840'ların başında damıtımevine dönüştü ve 1843 yılında William Matheson tarafından resmi olarak Glenmorangie adıyla kuruldu. İlk olarak 2007 yılında piyasaya sürülen Nectar D’Or ise, halen Glenmorangie ailesinin en eski üyelerinden biri.  
 
 Burun; çam balı, vanilya ve üzüm.   
 Damak; güneşte kurutulmuş meyveler, baharat, portakal kabuğu ve muskat rayihaları.  
