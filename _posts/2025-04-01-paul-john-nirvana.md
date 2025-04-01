@@ -24,7 +24,7 @@ Su eklemeye gerek yok. Viski halihazırda yeterince yumuşatılmış.
 Doğal bakır renginde, soğuk filtrasyon uygulanmıyor ve %40 ABV ile şişeleniyor. İçi yakılmış Amerikan meşe fıçılarda olgunlaşıyor. Viskide kullanılan 6 sıralı arpa Himalayalardan temin ediliyor ve hem yetiştiği bölge hem de kalite açısından çok kıymetli.  
 
 Kazandığı ödüller:  
--The Spirits Business 202 altın.  
+-The Spirits Business 2020 altın.  
 -International Spirits Challenge 2023 gümüş.  
 -2020 Jim Murray’s Whisky Bible 94 puan.  
 -The IWSC 2023 bronz.  
@@ -47,10 +47,10 @@ Palate: fresh fruits, pepper, nuts.
 Finish: short, sweet, malty dryness and spice.  
 No need to add water. It is already watered down.  
 
-Nirvana is made from six-row barley grown in the foothills of the Himalayas and matures in charred American oak casks. Copper in natural colour, non-chill-filtered, bottled at 40% ABV and is unpeated.  
+Nirvana is made from six-row barley grown in the foothills of the Himalayas and matures in charred American oak casks. Copper in natural colour, non-chill-filtered, bottled at 40% ABV and unpeated.  
 
 Awards:   
--The Spirits Business 202 gold.  
+-The Spirits Business 2020 gold.  
 -International Spirits Challenge 2023 silver.  
 -2020 Jim Murray’s Whisky Bible 94 points.  
 -The IWSC 2023 bronze.   
