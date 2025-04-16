@@ -14,16 +14,16 @@ preview-en: An independent bottling of Glen Garioch by Elixir Distillers, crafte
                  
 ---
 
-Oliver Chilton tarafından seçilen ve Londra’daki Elixir Distillers tarafından şişelenen The Single Malts of Scotland serisi ilk olarak 2005 yılında piyasaya sürüldü. 2012’de distile edilen bu 10 yıllık Glen Garioch ekspresyonu ise, Reserve Cask ürün gamının bir parçası.  
+Baş harmancı Oliver Chilton'ın seçimiyle, Londra’daki Elixir Distillers tarafından piyasaya sürülen The Single Malts of Scotland serisi ilk olarak 2005 yılında tanıtıldı. 2022’de şişelenen 10 yıllık Glen Garioch ekspresyonu ise, Reserve Cask ürün gamının bir parçası.  
 
 Burun; bal, beyaz zambak, çam.  
 Damak; sarı armut, sedir talaşı, zencefil, narenciye, taze kesilmiş çimen.  
 Bitiş; orta uzunlukta, tatlı baharat ve malt kuruluğu.  
 Fıçının etkisi çok baskın, hoşuma gitmedi.   
 
-2012 yılında damıtılan ve 2022 yılında şişelenen Glen Garioch, meşe fıçılarda 10 yıl boyunca olgunlaşmış ve dokuzuncu serinin bir parçası olarak, Parcel No. 9 etiketiyle piyasaya sunulmuş. Beş fıçıdan oluşan viski, soluk sarı renginde, renklendirici yok, soğuk filtrasyon uygulanmamış ve alkol oranı %48.  
+2012 yılında distile edilen bu vintage Glen Garioch, meşe fıçılarda 10 yıl boyunca olgunlaşmış ve dokuzuncu serinin bir parçası olarak, Parcel No. 9 etiketiyle piyasaya sunulmuş. Beş fıçıdan oluşan viski, solgun sarı renginde, renklendirici yok, soğuk filtrasyon uygulanmamış ve alkol oranı %48.  
 
-Elixir’in bu single maltı, denediğim tüm Glen Garioch bağımsız şişelemeleri arasında en az sevdiğim oldu. Elbette kötü bir viski değil; içilebilir ama bence aroma profili zayıf ve içimi sıkıcı. Fikrimin değişip değişmeyeceğini görmek için şişeyi açtıktan sonra birkaç hafta bekledim ancak hiçbir fark oluşmadı. Deneme şansınız olursa elbette için ama peşinden koşmaya değeceğini düşünmüyorum.   
+Elixir’in single maltı, denediğim tüm Glen Garioch bağımsız şişelemeleri arasında en az sevdiğim oldu. Elbette kötü bir viski değil; içilebilir ama bence aroma profili zayıf ve içimi sıkıcı. Fikrimin değişip değişmeyeceğini görmek için viskiyi açtıktan sonra birkaç hafta bekledim ancak hiçbir fark oluşmadı. Deneme şansınız olursa elbette için ama peşinden koşmaya değeceğini düşünmüyorum.   
 
 Sağlığınıza.         
    
