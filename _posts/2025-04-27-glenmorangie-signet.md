@@ -14,7 +14,7 @@ preview-en: Signet has an unorthodox composition and is somewhat enigmatic.
      
 ---
 
-Dr. Bill Lumsden tarafından yaratılan Signet, viski yapımında cesur ve yenilikçi yaklaşımı temsil eden örneklerden. İlk olarak 2008 yılında piyasaya sürülen skoç, kısa sürede Glenmorangie’nin ana koleksiyonunda bir klasik haline geldi.  
+Dr. Bill Lumsden tarafından yaratılan Signet, viski yapımında cesur ve yenilikçi yaklaşımı temsil eden örneklerden. İlk olarak 2008 yılında piyasaya sürülen bu İskoç, kısa sürede Glenmorangie’nin ana koleksiyonundaki klasiklerden birine dönüştü.  
 
 Burun; espresso, çikolata kaplı portakal kabuğu, çiçeksi parfüm notaları.   
 Damak; muskat, karabiber, meyveli kek, fındık, kadifemsi ve katmanlı.  
