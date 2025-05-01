@@ -43,7 +43,7 @@ Sağlığınıza.
 
 <p id="english"></p>
 
-Founded in 1869 by John Smith, Cragganmore Distillery is now owned by Diageo and is part of the Classic Malt Selection. Launched in 1997, The Distillers’ Edition is a limited special release, and this bottle’s batch number is CggD-6568.  
+Founded in 1869 by John Smith, Cragganmore Distillery is now owned by Diageo and is part of the Classic Malt Selection. Launched in 1997, The Distillers Edition is a limited special release, and this bottle’s batch number is CggD-6568.  
 
 Nose: dark fruits, vanilla, hint of pine honey and apple.  
 Palate: nutmeg, figs, plums, spice, smooth and sweet.   
