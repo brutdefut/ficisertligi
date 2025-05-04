@@ -33,7 +33,7 @@ Cutty Sark Blended Scotch, ferahlatıcı ve tahıl oranı yüksek bir viski. Haf
 
 P.S:  
 1. Ünlü Cutty Sark sarı etiketi, meşhur yelkenli gemi tasarımıyla İskoç sanatçı ve denizci James MacBey tarafından yapılmış. İlginç bir bilgi: Sarı renk aslında bir baskı hatasından kaynaklı. Etiket planlanandan daha parlak çıkıyor ve daha sonra bu şekilde bırakılmasına karar veriliyor (resmi web sitesinden).   
-2. NASA'nın ilk yedi astronotunun en genci olan Gordon Cooper, Mercury 9 görevine 5cl Cutty Sark şişesini gizlice yanına almış (resmi web sitesinden).   
+2. NASA'nın ilk yedi astronotunun en genci olan Gordon Cooper, Mercury 9 görevine giderken 5cl Cutty Sark şişesini gizlice yanına almış (resmi web sitesinden).   
 
 Sağlığınıza.         
    
