@@ -15,7 +15,7 @@ preview-en: Cutty Sark Blended is a classic Scotch whisky with a legendary clipp
 ---
 
 
-Cutty Sark, 1923 yılında Berry Bros. & Rudd tarafından kurulmuş, görece genç bir marka. Günümüzde La Martiniquaise-Bardinet bünyesinde yer alan ve Master Blender Stephen Woodcock’un uzmanlığıyla şekillenen bu harman viski, uygun fiyatlı Scotch kategorisinde artık bir klasik haline gelmiş durumda.  
+Cutty Sark, 1923 yılında Berry Bros. & Rudd tarafından kurulmuş, görece genç bir marka. Günümüzde La Martiniquaise-Bardinet bünyesinde yer alan ve Master Blender Stephen Woodcock’un uzmanlığıyla şekillenen bu harman viski ise, uygun fiyatlı Scotch kategorisinde artık bir klasik haline gelmiş durumda.  
 
 Burun; vanilya, ferah ve çiçeksi.   
 Damak; şeftali, beyaz biber, narenciye, çimen.  
