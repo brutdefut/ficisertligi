@@ -27,7 +27,7 @@ Ardbeg Smoketrails soluk altın renginde, duty-free özel serisi olarak, Amerika
 -The IWSC 2023 gümüş   
 -World Whiskies Awards 2023 bronz  
 
-Ardbeg Smoketrails, yumuşak ve kolay içimli bir Islay single malt. Kış günlerinde günlük yudumlamak isli bir viski arıyorsanız, zarif tarzı ile sizin iyi bir seçenek olacaktır.  
+Ardbeg Smoketrails, yumuşak ve kolay içimli bir Islay single malt. Kış günlerinde günlük yudumlamak için isli bir viski arıyorsanız, zarif tarzı ile iyi bir seçenek olacaktır.  
 
 P.S:   
 1. Manzanilla'nın orijinal formu, çoğunlukla Jerez de la Frontera, Puerto de Santa Maria ve Sanlúcar de Barrameda'yı içeren ünlü şeri üçgeninde yetiştirilen Palomino üzümlerinden yapılan kuru, beyaz bir şaraptır.  
