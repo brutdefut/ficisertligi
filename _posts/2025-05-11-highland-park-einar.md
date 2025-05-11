@@ -28,7 +28,7 @@ Viski parlak altın renginde, NAS, muhtemelen karamel kullanılmış ve soğuk f
 -The IWSC 2013-2014-2016 gümüş.   
 -The Scotch Whisky Masters 2013 altın, 2014 gümüş.  
 
-Highland Park, hem limitli hem de resmi olarak birçok farklı şişeleme sunan bir damıtımevi. Viski dünyası, bu ekspresyonların bazılarını koleksiyon amaçlı, bazılarını ise lezzetleri için severek takip ediyor. Einar da bu ailenin başarılı örneklerinden biri; özellikle genel aroma profiline bayıldım. Duty-free için üretilmiş bir viski olmasına rağmen, oldukça dengeli ve özenli bir şekilde hazırlanmış hissi uyandırdı. Zaten, Highland Park’ın kendine özgü stiliyle ürettiği viskileri her zaman beğenmişimdir.   
+Highland Park, hem limitli hem de standart olarak birçok farklı şişeleme sunan bir damıtımevi. Viski dünyası, bu ekspresyonların bazılarını koleksiyon amaçlı, bazılarını ise lezzetleri için severek takip ediyor. Einar da bu ailenin başarılı örneklerinden biri; özellikle genel aroma profiline bayıldım. Duty-free için üretilmiş bir viski olmasına rağmen, oldukça dengeli ve özenli bir şekilde hazırlanmış hissi uyandırdı. Zaten, Highland Park’ın kendine özgü stiliyle ürettiği viskileri her zaman beğenmişimdir.   
 
 P.S:  
 1. Einar adını, 11. yüzyılın başlarında Orkney Kontu ve güçlü bir Viking savaşçısı olan Einar Sigurdsson'dan alıyor. 
