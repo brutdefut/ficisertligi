@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " CUTTY SARK BLENDED SCOTCH "
+title:  " CHIVAS REGAL MIZUNARA "
 author: brutdefut
 categories: [ blended ]
 image: "assets/images/chivas-regal-mizunara/chivas-regal-mizunara.JPG"
