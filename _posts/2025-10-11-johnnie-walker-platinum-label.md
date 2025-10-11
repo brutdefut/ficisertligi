@@ -14,7 +14,7 @@ preview-en: A quiet yet refined milestone in Johnnie Walker’s timeline.
 
 ---
 
-Günümüzde Johnnie Walker 18 olarak bilinen Platinum Label, sadece 2012-2017 yılları arasında üretilmiş ve red/green ile blue label arasında konumlandırlmış bir scotch. Harman, hepimizin aşina olduğu Cardhu, Blair Athol, Cameronbridge, Glen Elgin ve benzeri viskilerin birlikteliğinden mütevellit.  
+Günümüzde Johnnie Walker 18 olarak bilinen Platinum Label, sadece 2012-2017 yılları arasında üretilmiş ve red/green ile blue label arasında konumlandırılmış bir scotch. Harman, hepimizin aşina olduğu Cardhu, Blair Athol, Cameronbridge, Glen Elgin ve benzeri viskilerin birlikteliğinden mütevellit.  
  
 Burun; vanilya, kuru meyve, bal.  
 Damak; karamel, narenciye, bolca JW baharatı, hafif is, yağlı ve yumuşak.  
