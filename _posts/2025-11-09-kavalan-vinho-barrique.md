@@ -26,7 +26,7 @@ Limitli sayılarda üretilen Vinho Barrique, Amerikan meşe şarap fıçıların
 Ödüller:   
 -International Spirits Challenge 2020 çift altın.        
 -San Francisco World Spirits Competition 2019 çift altın ve platinum, 2020 altın.    
--World Whiskies Awards 2015 Worlds Best Single Malt. 
+-World Whiskies Awards 2015 Worlds Best Single Malt.  
 -Tokyo Whisky and Spirits Competition 2020 altın. 
 
 Kavalan Solist Vinho Barrique, özenli fıçı işçiliği ile sıcak bir iklimin nasıl olgun ve dengeli bir viski ortaya çıkarabileceğini gösteriyor. Viski yavaş yavaş açılan ve zamana yayıldığında içene daha fazla karşılık veren bir karaktere sahip. Sakin bir gecede tek başına tadını çıkarmak ya da yakın arkadaşla paylaşmak için oldukça uygun. Kalabalık ve hareketli bir masanın ortasında kaybolup gitmek için yapılmış bir viski kesinlikle değil.  
@@ -52,7 +52,7 @@ Vinho Barrique is fully aged in American oak wine barrels that have previously c
 Awards:  
 -International Spirits Challenge 2020 double gold.        
 -San Francisco World Spirits Competition 2019 double gold and platinum, 2020 gold.    
--World Whiskies Awards 2015 Worlds Best Single Malt. 
+-World Whiskies Awards 2015 Worlds Best Single Malt.  
 -Tokyo Whisky and Spirits Competition 2020 gold. 
 
 Kavalan Solist Vinho Barrique demonstrates how thoughtful cask work and a bold climate can create a whisky that feels both mature and well-balanced. It is the kind of bottle that unfolds gradually and rewards slow attention. It is well suited for enjoying as a quiet night dram or sharing with a small circle of close friends, rather than disappearing in the background of a big and busy table. 
