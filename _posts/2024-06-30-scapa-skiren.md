@@ -17,7 +17,7 @@ preview-en: Scapa Skiren is an artisanal Orkney single malt.
 1885 yılında kurulan Scapa, İskoçya’nın en kuzeyindeki damıtımevlerinden biri olma özelliğine sahip. İlk kez 2015’te piyasaya sürülen Skiren ekspresyonu ise, ada çocuğu karakteriyle, nev-i şahsına münhasır bir single malt.  
 
 Burun; narenciye, vanilya ve bal.   
-Damak; nane, yeşil elme, deniz tuzu, şeker kaplı meyve topları.   
+Damak; nane, yeşil elma, deniz tuzu, şeker kaplı meyve topları.   
 Bitiş; orta uzun arası, bitkisel ve baharatlı.    
 Kadehte bir kaç dakika geçirdikten sonra viskideki meyve aromaları baskınlaşıyor.    
 
