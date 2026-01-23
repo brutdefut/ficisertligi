@@ -13,7 +13,7 @@ preview-tr: Bağımsızlar söz konusu olduğunda, Glentauchers her zaman beklen
 preview-en: When it comes to indies, Glentauchers always delivers more than expected.  
                  
 ---
-Glentauchers’ı esas olarak harmanlarda kullanılmasıyla biliyoruz. Özellikle de Ballantine’s için ürettiği meyvemsi karakterli viskiyle meşhur. Ancak damıtımevinin bağımsız şişelemelerinin hikâyesi çok farklı ve Duncan Taylor Glentauchers 2008 bu geleneğin güzel bir örneği.  
+Glentauchers’ı esas olarak harmanlarda kullanılmasıyla biliyoruz. Özellikle Ballantine’s için ürettiği meyvemsi karakterli viskiyle meşhur. Ancak damıtımevinin bağımsız şişelemelerinin hikâyesi çok farklı ve Duncan Taylor Glentauchers 2008 bu geleneğin güzel bir örneği.  
 
 Burun; yeşil elma ve kayısı, bal, vanilya, narenciye.  
 Damak; muskat, hafif yanık meşe, tarçın, karabiber; çok dengeli.  
