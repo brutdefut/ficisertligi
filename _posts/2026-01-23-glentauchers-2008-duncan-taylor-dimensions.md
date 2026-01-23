@@ -2,7 +2,7 @@
 layout: post
 title:  " GLENTAUCHERS 2008 DUNCAN TAYLOR DIMENSIONS "
 author: brutdefut
-categories: [ independent ]
+categories: [ independent, cask-strength ]
 image: "assets/images/glentauchers-2008-duncan-taylor-dimensions/glentauchers-2008-duncan-taylor-dimensions.JPG"
 rating: 4.5
 richness: 8
