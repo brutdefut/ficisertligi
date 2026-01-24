@@ -21,7 +21,7 @@ Damak; nane, yeşil elma, deniz tuzu, şeker kaplı meyve topları.
 Bitiş; orta uzun arası, bitkisel ve baharatlı.    
 Kadehte bir kaç dakika geçirdikten sonra viskideki meyve aromaları baskınlaşıyor.    
 
-Viski parlak altın sarısı renginde ama renklendirici olarak karamel kullanılıyor. Soğuk filtrasyon uygulanmadan, %40 ABV ile şişeleniyor. (ABV biraz daha yüksek olabilirmiş) Bendeki şişenin numarası SK15 ve 15 rakamı, muhtemelen, kaç numaralı partiden alındığına referans veriyor.  
+Viski, Tennesse ve Kentucky orijinli %100 ilk dolum Amerikan meşe fıçılarda olgunlaşıyor. Parlak altın sarısı renginde ama renklendirici olarak karamel kullanılıyor. Soğuk filtrasyon uygulanmadan, %40 ABV ile şişeleniyor. (ABV biraz daha yüksek olabilirmiş) Bendeki şişenin numarası SK15 ve 15 rakamı, muhtemelen, kaç numaralı partiden alındığına referans veriyor.  
 
 Ödüller:    
 -The Spirits Business 2018 gümüş.    
