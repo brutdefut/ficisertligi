@@ -20,7 +20,7 @@ Damak: kuru meyveler, tütsülenmiş et, tarçınlı çörek, biber, deniz tuzu 
 Bitiş: çok uzun, malt, meşe, beyaz biber ve deri.  
 Daha yumuşak tadım için mutlaka birkaç damla su eklemek gerek.  
 
-Haziran 2002’de damıtılan ve Şubat 2018’de şişelenen Bruichladdich Damıtımevi çıkışlı fıçı sertliğindeki viski, yaklaşık 225-250 litrelik şeri meşe fıçıda (hogshead) olgunlaşmış. Mat altın renginde, renklendirici yok, soğuk filtrasyon uygulanmamış ve alkol oranı %61,8. Viski single cask olarak piyasaya sunulmuş ve fıçı no. 324, şişe no. 029.  
+Haziran 2002’de damıtılan ve Şubat 2018’de şişelenen Bruichladdich Damıtımevi çıkışlı fıçı sertliğindeki viski, yaklaşık 225-250 litrelik şeri meşe fıçıda (hogshead) olgunlaşmış. Mat altın renginde, renklendirici yok, soğuk filtrasyon uygulanmamış ve alkol oranı %61,8. Viski, Uniqueness Of The Cask serisinde yer alıyor ve single cask olarak piyasaya sunulmuş. Fıçı no. 324, şişe no. 029.  
 
 Port Charlotte 15, Cenevre Cave du Palais de Justice’te tatma fırsatı bulduğum viskilerden. Birlikte denediğim Fettercairn 20 ve Bruichladdich 24 gibi iki lezzetli arkadaşıyla günümüzü çok keyifli hale getirdi. Fıçı sertliğinin verdiği saflık ve doğru seçilmiş kaliteli fıçılar sayesinde oldukça keyifli bir deneyim sundu. Islay çıkışlı sert viskileri seviyorsanız, mutlaka tavsiyedir. Hayal kırıklığına uğramayacağınızı garanti ederim.  
 
