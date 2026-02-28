@@ -7,7 +7,7 @@ image: "assets/images/port-charlotte-15-a-few-barrels/port-charlotte-15-a-few-ba
 rating: 4.5
 richness: 8
 body: 9
-sweetness: 5
+sweetness: 4
 smoke_peat: 8
 preview-tr: Yenilikçi Bruichladdich viskisine bağımsız bir dokunuş.                          
 preview-en: Independent touch to Progressive Hebridean Distillers’ single malt.  
