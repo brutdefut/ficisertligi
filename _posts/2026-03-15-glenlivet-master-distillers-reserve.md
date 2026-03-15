@@ -48,7 +48,7 @@ No need to add water.
 
 The whisky is matured in traditional oak casks, including first-fill American oak barrels and ex-sherry casks. NAS, 1 litre, bottled at 40% ABV, with added caramel and chill-filtered, has a gold colour.    
 
-Awards:
+Awards:  
 -The Spirits Business 2018 silver.   
 -The IWSC 2017 silver.  
 -International Spirits Challenge 2018 silver.  
