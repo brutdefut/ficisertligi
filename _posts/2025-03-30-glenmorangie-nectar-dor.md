@@ -49,7 +49,7 @@ Palate: dried fruits, spice, orange zest and a hint of nutmeg.
 Finish: short to medium, sweet ginger, oaky and peppery.  
 After a few drops of water, the whisky becomes fruitier and more delicate.      
 
-Nectar D’Or matures first in ex-bourbon American oak bourbon casks before finishing in Sauternes wine casks from Bordeaux. Shiny gold in colour but caramel-added, chill-filtered and bottled at 46% ABV. Since its release, its age statement and name have constantly changed—12, NAS, and finally, The Nectar 16. So, don’t be surprised if you come across different labels.  
+Nectar D’Or matures first in ex-bourbon American oak casks before finishing in Sauternes wine casks from Bordeaux. Shiny gold in colour but caramel-added, chill-filtered and bottled at 46% ABV. Since its release, its age statement and name have constantly changed—12, NAS, and finally, The Nectar 16. So, don’t be surprised if you come across different labels.  
 
 Mostly awarded:   
 -San Francisco World Spirits Competition 2013 silver, 2022 double gold.  
