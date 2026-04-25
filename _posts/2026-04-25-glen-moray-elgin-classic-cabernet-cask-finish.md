@@ -23,7 +23,7 @@ Biraz hava almaya ihtiyacı var. Su eklemeye gerek yok.
 
 Viski, Amerikan burbon meşe fıçılarda olgunlaştıktan sonra Cabernet Sauvignon şarap fıçılarında bitiş veriliyor. %40 ABV ile şişeleniyor ve sıcak altın tonlarında. Renklendirici kullanılıyor ve soğuk filtrasyon uygulanıyor.  
 
-Aslında fikir basit; yumuşak bir Speyside viskisini alıp kırmızı şarap fıçısının ona ne katacağını görmek ve ortaya çıkan sonuca bakınca işe yaramış gibi görünüyor. Özellikle bu fiyat seviyesinde sunduğu performansı yakalamak zor; hatta bu aralıkta single malt rakibi yok denecek kadar az. Glen Moray Cabernet Cask, kolay içimli bir şişe ve viski dünyasına yeni adım atanlar için fıçı bitişlerini deneyimlemek açısından güzel bir giriş noktası.  
+Aslında fikir basit; yumuşak bir Speyside viskisini alıp kırmızı şarap fıçısının ona ne katacağını görmek ve ortaya çıkan sonuca bakınca işe yaramış gibi görünüyor. Özellikle bu fiyat seviyesinde sunduğu performansı yakalamak zor; hatta single malt rakibi yok denecek kadar az. Glen Moray Cabernet Cask, kolay içimli bir şişe ve viski dünyasına yeni adım atanlar için fıçı bitişlerini deneyimlemek açısından güzel bir giriş noktası.  
 
 Sağlığınıza.  
  
