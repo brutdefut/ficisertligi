@@ -24,7 +24,7 @@ Kadehe eklenen birkaç damla su ile viski daha meyvemsi oluyor.
 Amber renginde, karamel yok, soğuk filtrasyon uygulanmıyor ve %43 ABV ile şişeleniyor. Tamamen Pedro Ximénez ve Oloroso şeri fıçılarda olgunlaşıyor.  
 
 Ödüller:  
--World Whiskies Awards 2019-2022 gümüş. 
+-World Whiskies Awards 2019-2022 gümüş.  
 -The IWSC 2013 gümüş, 2016-2017-2019 altın.   
 -San Francisco World Spirits Competition 2022 altın, 2024 çift altın.  
 -2020 Jim Murray’s Whisky Bible 86.5 puan.  
@@ -47,8 +47,8 @@ After a few drops of water, the whisky becomes fruitier.
 Glendronach 12 matures in a combination of Pedro Ximénez and Oloroso sherry casks. Amber gold in colour, no caramel, non-chill-filtered, and bottled at 43% ABV. 
 
 Awards:   
--World Whiskies Awards 2019 and 2022 silver. 
--The IWSC 2013 silver, 2016-2017-2019 gold. 
+-World Whiskies Awards 2019 and 2022 silver.  
+-The IWSC 2013 silver, 2016-2017-2019 gold.  
 -San Francisco World Spirits Competition 2022 gold, 2024 double gold.  
 -2020 Jim Murray’s Whisky Bible 86.5 points.  
 
